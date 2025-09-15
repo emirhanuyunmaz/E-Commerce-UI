@@ -1,5 +1,7 @@
 import FlashProductCard from "@/components/fe/FlashProductCard";
 import HomeProduct from "@/components/fe/HomeProduct";
+import ProductCard from "@/components/fe/ProductCard";
+import { ArrowRight } from "lucide-react";
 
 export default function Home() {
   return (
@@ -18,8 +20,20 @@ export default function Home() {
       </div>
     </div>
 
-    <div>
-      <h3 className="font-bold text-xl ">TOP 100</h3>
+    <div className="max-w-7xl mx-auto">
+      <div className="flex justify-between py-3 border-b mb-3 border-grey" >
+        <h3 className="font-bold text-xl">TOP 100</h3>
+        <button className="flex justify-center items-center hover:opacity-70 cursor-pointer transition-all"><span className="font-medium text-lg">View All</span> <span><ArrowRight /></span></button>
+      </div>
+      <div className="flex gap-5 flex-wrap">
+        <ProductCard/>
+        <ProductCard/>
+        <ProductCard/>
+        <ProductCard/>
+        <ProductCard/>
+        <ProductCard/>
+        <ProductCard/>
+      </div>
     </div>
 
     </div>
