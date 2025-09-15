@@ -12,7 +12,7 @@ export default function Header(){
             <input placeholder="Seach Products" className="outline-none border-none"/>
             {/* <HeaderInputSelect/>  */}
             <select className="outline-none border-none">
-                <option value="" disabled selected>All Category</option>
+                <option value="" disabled >All Category</option>
                 <option className="border-none " value={`woman`} >woman</option>
                 <option className="border-none" value={`male`} >Male</option>
                 <option className="border-none" value={`mother-child`} >Mother-Child</option>
