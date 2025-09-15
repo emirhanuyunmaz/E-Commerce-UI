@@ -1,8 +1,8 @@
 import Link from "next/link";
 
 export default function Navbar(){
-    return(<nav className="max-w-7xl mx-auto">
-            <ul className="flex justify-around">
+    return(<nav className="max-w-7xl mx-auto ">
+            <ul className="flex justify-around py-5">
                 <Link className="hover:opacity-70" href={`/products/woman`} >Woman</Link>
                 <Link className="hover:opacity-70" href={`/products/male`} >Male</Link>
                 <Link className="hover:opacity-70" href={`/products/mother-child`} >Mother-Child</Link>

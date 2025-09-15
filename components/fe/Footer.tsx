@@ -2,13 +2,13 @@ import Link from "next/link";
 import SendFooterEmail from "./SendFooterEmail";
 
 export default function Footer(){
-    return(<footer className="">
+    return(<footer className="mt-30">
         <div className="relative flex justify-center">
             <div className="absolute -top-20">
                 <SendFooterEmail/>
             </div>
         </div>
-        <div className="bg-primary p-20">
+        <div className="bg-primary p-20 ">
 
         <div className="max-w-7xl mx-auto">
 
