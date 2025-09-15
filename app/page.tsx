@@ -1,5 +1,7 @@
 import FlashProductCard from "@/components/fe/FlashProductCard";
+import { HomeCarousel } from "@/components/fe/HomeCarousel";
 import HomeProduct from "@/components/fe/HomeProduct";
+import { MiniCarousel } from "@/components/fe/MiniCarousel";
 import ProductCard from "@/components/fe/ProductCard";
 import { ArrowRight } from "lucide-react";
 
@@ -7,7 +9,8 @@ export default function Home() {
   return (
     <div className="min-h-[80vh] ">
       <div className="w-full h-[60vh]">
-        <HomeProduct/>
+        {/* <HomeProduct/> */}
+        <HomeCarousel/>
       </div>
 
     <div className="max-w-7xl mx-auto mt-10">
@@ -34,6 +37,10 @@ export default function Home() {
         <ProductCard/>
         <ProductCard/>
       </div>
+    </div>
+
+    <div>
+      {/* <MiniCarousel/> */}
     </div>
 
     </div>

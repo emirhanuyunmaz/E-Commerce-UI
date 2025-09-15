@@ -34,7 +34,11 @@ export default function Header(){
         </div>
 
         <div>
-            <Button variant={`outline`}>Login</Button>
+            <Button variant={`outline`} asChild>
+                <Link href={`/signin`}>
+                    Sign In
+                </Link>
+            </Button>
 
         </div>
 
