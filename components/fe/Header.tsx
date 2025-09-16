@@ -1,17 +1,30 @@
+'use client'
 import { Search } from "lucide-react";
 import Icon from "./Icon";
 import Link from "next/link";
 import { Button } from "../ui/button";
+import { useState } from "react";
+import { useRouter } from "next/navigation";
 
 export default function Header(){
+    const router = useRouter()
+    const [search,setSearch] = useState("")
+    const [category,setCategory] = useState("")
+
+    function goToSearch(){
+        console.log("SSA:",category);
+        
+        router.push(`/products?search=${search}&category=${category}`)
+    }
+
     return(<header className="max-w-7xl mx-auto flex items-center justify-around gap-3 py-3 ">
         <div>
             <Icon/>
         </div>
         <div className="hidden md:flex border-2 border-grey rounded py-1 px-2">
-            <input placeholder="Seach Products" className="outline-none border-none"/>
+            <input value={search} onChange={(item) => setSearch(item.target.value)} placeholder="Seach Products" className="outline-none border-none"/>
 
-            <select className="outline-none border-none" defaultValue={"category"}>
+            <select className="outline-none border-none" value={category} onChange={(select) => setCategory(select.target.value)} defaultValue={"category"}>
                 <option value="category" disabled >All Category</option>
                 <option className="border-none " value={`woman`} >Woman</option>
                 <option className="border-none" value={`male`} >Male</option>
@@ -22,7 +35,7 @@ export default function Header(){
                 <option className="border-none" value={`shoe-bag`} >Shoe & Bag</option>
                 <option className="border-none" value={`sport-outdoor`} >Sport & Outdoor</option>
             </select>
-            <button className="border-l border-grey p-1"><Search/></button>
+            <button onClick={goToSearch} className="border-l border-grey p-1"><Search/></button>
         </div>
 
         <div className="hidden md:flex ">

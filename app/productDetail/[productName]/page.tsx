@@ -22,7 +22,7 @@ export default function Page(){
         <div className="flex flex-col md:flex-row gap-10">
             
             <div className="w-full px-3 md:w-1/2">
-                <img src="/images/woman_dress.png" alt="" className="w-full h-[70vh]" />
+                <img src={`${productData?.image == "" ? "/images/not_images.png": `${productData?.image}` }`} alt="" className="w-full h-[70vh]" />
             </div>
 
             <div className="w-full px-3 md:w-1/2 flex flex-col gap-5">

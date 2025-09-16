@@ -1,17 +1,17 @@
 import { Heart, Star } from "lucide-react";
 import Link from "next/link";
 
-export default function ProductCard({slug,name,price,rating,reviws,explanation}:{slug:string,name:string,price:number,rating:number,reviws:number,explanation:string}){
+export default function ProductCard({images,slug,name,price,rating,reviws,explanation}:{images:string,slug:string,name:string,price:number,rating:number,reviws:number,explanation:string}){
     return(<Link href={`/productDetail/${slug}`} className="border border-grey relative rounded-xl p-2 hover:shadow-xl transition-all">
         {/* IMAGE */}
         <div>
-            <img src="/images/bag_1.png" alt="" className="w-full h-40 rounded-t-xl" />
+            <img src={`${images != "" ? images : "/images/not_images.png"}`} alt="" className="w-full h-40 rounded-t-xl" />
         </div>
         {/* IMAGE - END */}
         {/* DESC */}
         <div className="p-3">
             <p className="font-medium">{name}</p>
-            <p className="text-gray-500">{explanation}...</p>
+            <p className="text-gray-500">{explanation.substring(0,20)}...</p>
         </div>
         {/* DESC - END */}
         <div className="flex gap-3">
