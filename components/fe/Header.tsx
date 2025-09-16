@@ -10,10 +10,10 @@ export default function Header(){
         </div>
         <div className="flex border-2 border-grey rounded py-1 px-2">
             <input placeholder="Seach Products" className="outline-none border-none"/>
-            {/* <HeaderInputSelect/>  */}
-            <select className="outline-none border-none">
-                <option value="" disabled >All Category</option>
-                <option className="border-none " value={`woman`} >woman</option>
+
+            <select className="outline-none border-none" defaultValue={"category"}>
+                <option value="category" disabled >All Category</option>
+                <option className="border-none " value={`woman`} >Woman</option>
                 <option className="border-none" value={`male`} >Male</option>
                 <option className="border-none" value={`mother-child`} >Mother-Child</option>
                 <option className="border-none" value={`home-furniture`} >Home & Furniture</option>

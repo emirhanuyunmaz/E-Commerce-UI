@@ -1,9 +1,10 @@
+import Link from "next/link";
 
 export default function Icon(){
-    return(<div >
-        <p className="text-xl font-bold">
+    return(
+        <Link href={`/`} className="text-xl font-bold">
             SepetGo <span className="text-primary">Store</span>
-        </p>
+        </Link>
         
-    </div>)
+    )
 }
