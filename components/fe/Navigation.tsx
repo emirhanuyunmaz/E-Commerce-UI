@@ -290,9 +290,8 @@ const BestSellerComponents : { title: string; href: string; description: string 
 
 export function Navigation() {
   return (
-    <NavigationMenu viewport={false} className="z-20 w-full flex justify-around mx-auto py-6">
+    <NavigationMenu viewport={false} className="z-20 w-full hidden lg:flex lg:justify-around mx-auto lg:py-6">
       <NavigationMenuList>
-        
         
         <NavigationMenuItem>
           <NavigationMenuTrigger>Woman</NavigationMenuTrigger>

@@ -4,11 +4,11 @@ import Link from "next/link";
 import { Button } from "../ui/button";
 
 export default function Header(){
-    return(<header className="max-w-7xl mx-auto flex items-center justify-around gap-3 py-3">
+    return(<header className="max-w-7xl mx-auto flex items-center justify-around gap-3 py-3 ">
         <div>
             <Icon/>
         </div>
-        <div className="flex border-2 border-grey rounded py-1 px-2">
+        <div className="hidden md:flex border-2 border-grey rounded py-1 px-2">
             <input placeholder="Seach Products" className="outline-none border-none"/>
 
             <select className="outline-none border-none" defaultValue={"category"}>
@@ -25,7 +25,7 @@ export default function Header(){
             <button className="border-l border-grey p-1"><Search/></button>
         </div>
 
-        <div className="">
+        <div className="hidden md:flex ">
             <ul className="flex gap-5">
                 <li><Link href={`/about`}>About Us</Link></li>
                 <li><Link href={`/contact`}>Contact</Link></li>

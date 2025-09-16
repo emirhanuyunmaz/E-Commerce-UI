@@ -10,12 +10,6 @@
   --color-error: oklch(0.5959 0.2233 27.41);
   --color-warning: oklch(0.8925 0.1667 94.55);
   --color-grey: oklch(0.8458 0.0052 228.83);
+
 }
 
-:root {
-  
-}
-
-.dark {
-  
-}
