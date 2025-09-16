@@ -4,11 +4,19 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Circle, Heart, ShoppingBasket } from "lucide-react";
 import { useState } from "react";
+import data from "../../../dummy_data.json"
+import { useParams } from "next/navigation";
 
 export default function Page(){
-
-    const [productDetail,setProductDetail] = useState(false)
+    const params = useParams<{ productName: string }>()
+    // console.log("PRN:",params.productName);
+    const productData = data.find((item) => item.slug == params.productName )
+    const [productDetail,setProductDetail] = useState(true)
     const [counter,setCounter] = useState(1)
+    const [selectedSize,setSelectedSize] = useState("xs")
+
+    console.log(productData);
+    
 
     return(<div className="max-w-7xl mx-auto min-h-[80vh]">
         <div className="flex flex-col md:flex-row gap-10">
@@ -19,19 +27,19 @@ export default function Page(){
 
             <div className="w-full px-3 md:w-1/2 flex flex-col gap-5">
                 <div className="flex flex-col gap-2">
-                    <p className="font-bold text-xl ">Product 1</p>
-                    <p className="text-error text-lg font-medium">$120.99</p>
+                    <p className="font-bold text-xl ">{productData?.name}</p>
+                    <p className="text-error text-lg font-medium">${productData?.price}</p>
                 </div>
 
                 <div className="flex flex-col gap-10">
                     <div className="flex gap-3 items-center">
                         <p className="font-bold text-lg" >Sizes:</p>
                         <ul className="flex gap-3">
-                            <li><Button variant={`outline`} >XS</Button></li>
-                            <li><Button variant={`outline`} >S</Button></li>
-                            <li><Button variant={`outline`} >ML</Button></li>
-                            <li><Button variant={`outline`} >L</Button></li>
-                            <li><Button variant={`outline`} >XL</Button></li>
+                            <li><Button onClick={() => setSelectedSize("XS")} variant={`outline`} className={`${selectedSize == "XS" && "bg-primary text-white"}`}>XS</Button></li>
+                            <li><Button onClick={() => setSelectedSize("S")} variant={`outline`} className={`${selectedSize == "S" && "bg-primary text-white"}`} >S</Button></li>
+                            <li><Button onClick={() => setSelectedSize("M")} variant={`outline`} className={`${selectedSize == "M" && "bg-primary text-white"}`} >M</Button></li>
+                            <li><Button onClick={() => setSelectedSize("L")} variant={`outline`} className={`${selectedSize == "L" && "bg-primary text-white"}`} >L</Button></li>
+                            <li><Button onClick={() => setSelectedSize("XL")} variant={`outline`} className={`${selectedSize == "XL" && "bg-primary text-white"}`} >XL</Button></li>
                         </ul>
                     </div>
 
@@ -67,8 +75,8 @@ export default function Page(){
         {/* Product Details - START */}
         <div className="w-full mt-10">
             <div className="flex justify-center gap-10 border-b border-grey pb-3">
-                <button onClick={() => setProductDetail(true)} className={`${productDetail && "border border-black rounded "} p-1   `} >PRODUCT DETAILS</button>
-                <button onClick={() => setProductDetail(false)}  className={`${!productDetail && "border border-black rounded"} p-1   `}>REVIEWS</button>
+                <button onClick={() => setProductDetail(true)} className={`${productDetail && "border border-black rounded "} p-1`} >PRODUCT DETAILS</button>
+                <button onClick={() => setProductDetail(false)}  className={`${!productDetail && "border border-black rounded"} p-1`}>REVIEWS</button>
             </div>
 
             {/* Product Details - Start */}
@@ -76,16 +84,15 @@ export default function Page(){
                 <div className="md:w-1/2">
                     <div>
                         <p className="font-bold">Product Description</p>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores id sint quaerat assumenda sapiente, dicta quisquam illo minus mollitia similique!</p>
+                        <p>{productData?.explanation}</p>
                     </div>
                     
                     <div>
                         <p className="font-bold">Product Detail</p>
-                        <p><span className="font-medium ">Brand: </span><span>Brand 8</span></p>
-                        <p><span className="font-medium ">Material: </span><span>Polyester</span></p>
-                        <p><span className="font-medium ">Color: </span><span>Red</span></p>
-                        <p><span className="font-medium ">Size: </span><span>One Size</span></p>
-                        <p><span className="font-medium ">Weight: </span><span>3.08 kg</span></p>
+                        <p><span className="font-medium ">Brand: </span><span>{productData?.details.brand}</span></p>
+                        <p><span className="font-medium ">Color: </span><span>{productData?.details.color}</span></p>
+                        <p><span className="font-medium ">Size: </span><span>{productData?.details.size}</span></p>
+                        <p><span className="font-medium ">Weight: </span><span>{productData?.details.weight}</span></p>
                     </div>
 
 
@@ -102,7 +109,9 @@ export default function Page(){
 
             {/* Review - Start  */}
             {!productDetail && <div className=" flex flex-col gap-3 mt-3">
-                <CommentCard/>
+                {
+                    productData?.reviews.map((review , idx) => <CommentCard key={idx}  {...review} /> )
+                }
             </div>}
             {/* Review - End  */}
 

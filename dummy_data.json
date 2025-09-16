@@ -1,0 +1,6077 @@
+[
+  {
+    "id": "DRE_1",
+    "name": "Dresses Product 1",
+    "price": 966.23,
+    "stock": 19,
+    "rating": 4.0,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "7.07 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "Below average."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Would not recommend."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Does the job."
+      }
+    ],
+    "category": "woman",
+    "subcategory": "dresses",
+    "image": "",
+    "explanation": "Dresses Product 1 is a Blue Dresses from Brand 1, size M, weighing 7.07 kg. It has a rating of 4.0 out of 5, is priced at 966.23, and currently 19 units are in stock.",
+    "slug": "dresses-product-1"
+  },
+  {
+    "id": "DRE_2",
+    "name": "Dresses Product 2",
+    "price": 442.55,
+    "stock": 51,
+    "rating": 1.1,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "4.5 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Nothing special."
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "Not what I expected."
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Would not recommend."
+      },
+      {
+        "username": "user5",
+        "rating": 2,
+        "comment": "Could be better."
+      }
+    ],
+    "category": "woman",
+    "subcategory": "dresses",
+    "image": "",
+    "explanation": "Dresses Product 2 is a Black Dresses from Brand 2, size L, weighing 4.5 kg. It has a rating of 1.1 out of 5, is priced at 442.55, and currently 51 units are in stock.",
+    "slug": "dresses-product-2"
+  },
+  {
+    "id": "DRE_3",
+    "name": "Dresses Product 3",
+    "price": 867.0,
+    "stock": 110,
+    "rating": 2.2,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "1.98 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Very poor quality."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "Average quality."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Below average."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Does the job."
+      }
+    ],
+    "category": "woman",
+    "subcategory": "dresses",
+    "image": "",
+    "explanation": "Dresses Product 3 is a Green Dresses from Brand 3, size XL, weighing 1.98 kg. It has a rating of 2.2 out of 5, is priced at 867.0, and currently 110 units are in stock.",
+    "slug": "dresses-product-3"
+  },
+  {
+    "id": "TOP_1",
+    "name": "Tops Product 1",
+    "price": 966.23,
+    "stock": 19,
+    "rating": 4.0,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "7.07 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Not what I expected."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      }
+    ],
+    "category": "woman",
+    "subcategory": "tops",
+    "image": "",
+    "explanation": "Tops Product 1 is a Blue Tops from Brand 1, size M, weighing 7.07 kg. It has a rating of 4.0 out of 5, is priced at 966.23, and currently 19 units are in stock.",
+    "slug": "tops-product-1"
+  },
+  {
+    "id": "TOP_2",
+    "name": "Tops Product 2",
+    "price": 442.55,
+    "stock": 51,
+    "rating": 1.1,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "4.5 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Average quality."
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "Needs improvement."
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Terrible experience."
+      },
+      {
+        "username": "user5",
+        "rating": 2,
+        "comment": "Could be better."
+      }
+    ],
+    "category": "woman",
+    "subcategory": "tops",
+    "image": "",
+    "explanation": "Tops Product 2 is a Black Tops from Brand 2, size L, weighing 4.5 kg. It has a rating of 1.1 out of 5, is priced at 442.55, and currently 51 units are in stock.",
+    "slug": "tops-product-2"
+  },
+  {
+    "id": "TOP_3",
+    "name": "Tops Product 3",
+    "price": 867.0,
+    "stock": 110,
+    "rating": 2.2,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "1.98 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Would not recommend."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Not satisfied at all."
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "It's okay."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Not what I expected."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Does the job."
+      }
+    ],
+    "category": "woman",
+    "subcategory": "tops",
+    "image": "",
+    "explanation": "Tops Product 3 is a Green Tops from Brand 3, size XL, weighing 1.98 kg. It has a rating of 2.2 out of 5, is priced at 867.0, and currently 110 units are in stock.",
+    "slug": "tops-product-3"
+  },
+  {
+    "id": "JEA_1",
+    "name": "Jeans Product 1",
+    "price": 831.66,
+    "stock": 91,
+    "rating": 2.7,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "0.38 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user2",
+        "rating": 4,
+        "comment": "Quite satisfied."
+      },
+      {
+        "username": "user3",
+        "rating": 4,
+        "comment": "I'm happy with it."
+      },
+      {
+        "username": "user4",
+        "rating": 4,
+        "comment": "Quite satisfied."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Does the job."
+      }
+    ],
+    "category": "woman",
+    "subcategory": "jeans",
+    "image": "",
+    "explanation": "Jeans Product 1 is a Blue Jeans from Brand 1, size M, weighing 0.38 kg. It has a rating of 2.7 out of 5, is priced at 831.66, and currently 91 units are in stock.",
+    "slug": "jeans-product-1"
+  },
+  {
+    "id": "JEA_2",
+    "name": "Jeans Product 2",
+    "price": 90.17,
+    "stock": 63,
+    "rating": 1.0,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "4.36 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 2,
+        "comment": "Not what I expected."
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "Below average."
+      },
+      {
+        "username": "user3",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      },
+      {
+        "username": "user4",
+        "rating": 4,
+        "comment": "I'm happy with it."
+      },
+      {
+        "username": "user5",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      }
+    ],
+    "category": "woman",
+    "subcategory": "jeans",
+    "image": "",
+    "explanation": "Jeans Product 2 is a Black Jeans from Brand 2, size L, weighing 4.36 kg. It has a rating of 1.0 out of 5, is priced at 90.17, and currently 63 units are in stock.",
+    "slug": "jeans-product-2"
+  },
+  {
+    "id": "JEA_3",
+    "name": "Jeans Product 3",
+    "price": 307.67,
+    "stock": 19,
+    "rating": 2.7,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "2.61 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "Nothing special."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "It's okay."
+      },
+      {
+        "username": "user5",
+        "rating": 4,
+        "comment": "Quite satisfied."
+      }
+    ],
+    "category": "woman",
+    "subcategory": "jeans",
+    "image": "",
+    "explanation": "Jeans Product 3 is a Green Jeans from Brand 3, size XL, weighing 2.61 kg. It has a rating of 2.7 out of 5, is priced at 307.67, and currently 19 units are in stock.",
+    "slug": "jeans-product-3"
+  },
+  {
+    "id": "SKI_1",
+    "name": "Skirts Product 1",
+    "price": 966.23,
+    "stock": 19,
+    "rating": 4.0,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "7.07 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "Not what I expected."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Terrible experience."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Not what I expected."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      }
+    ],
+    "category": "woman",
+    "subcategory": "skirts",
+    "image": "",
+    "explanation": "Skirts Product 1 is a Blue Skirts from Brand 1, size M, weighing 7.07 kg. It has a rating of 4.0 out of 5, is priced at 966.23, and currently 19 units are in stock.",
+    "slug": "skirts-product-1"
+  },
+  {
+    "id": "SKI_2",
+    "name": "Skirts Product 2",
+    "price": 442.55,
+    "stock": 51,
+    "rating": 1.1,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "4.5 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Absolutely love it."
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Does the job."
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "Below average."
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user5",
+        "rating": 2,
+        "comment": "Could be better."
+      }
+    ],
+    "category": "woman",
+    "subcategory": "skirts",
+    "image": "",
+    "explanation": "Skirts Product 2 is a Black Skirts from Brand 2, size L, weighing 4.5 kg. It has a rating of 1.1 out of 5, is priced at 442.55, and currently 51 units are in stock.",
+    "slug": "skirts-product-2"
+  },
+  {
+    "id": "SKI_3",
+    "name": "Skirts Product 3",
+    "price": 867.0,
+    "stock": 110,
+    "rating": 2.2,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "1.98 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Not satisfied at all."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "It's okay."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Nothing special."
+      }
+    ],
+    "category": "woman",
+    "subcategory": "skirts",
+    "image": "",
+    "explanation": "Skirts Product 3 is a Green Skirts from Brand 3, size XL, weighing 1.98 kg. It has a rating of 2.2 out of 5, is priced at 867.0, and currently 110 units are in stock.",
+    "slug": "skirts-product-3"
+  },
+  {
+    "id": "JAC_1",
+    "name": "Jackets Product 1",
+    "price": 966.23,
+    "stock": 19,
+    "rating": 4.0,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "7.07 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "Not what I expected."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Nothing special."
+      }
+    ],
+    "category": "woman",
+    "subcategory": "jackets",
+    "image": "",
+    "explanation": "Jackets Product 1 is a Blue Jackets from Brand 1, size M, weighing 7.07 kg. It has a rating of 4.0 out of 5, is priced at 966.23, and currently 19 units are in stock.",
+    "slug": "jackets-product-1"
+  },
+  {
+    "id": "JAC_2",
+    "name": "Jackets Product 2",
+    "price": 442.55,
+    "stock": 51,
+    "rating": 1.1,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "4.5 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Average quality."
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Very poor quality."
+      },
+      {
+        "username": "user5",
+        "rating": 2,
+        "comment": "Below average."
+      }
+    ],
+    "category": "woman",
+    "subcategory": "jackets",
+    "image": "",
+    "explanation": "Jackets Product 2 is a Black Jackets from Brand 2, size L, weighing 4.5 kg. It has a rating of 1.1 out of 5, is priced at 442.55, and currently 51 units are in stock.",
+    "slug": "jackets-product-2"
+  },
+  {
+    "id": "JAC_3",
+    "name": "Jackets Product 3",
+    "price": 867.0,
+    "stock": 110,
+    "rating": 2.2,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "1.98 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Very poor quality."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Terrible experience."
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "It's okay."
+      }
+    ],
+    "category": "woman",
+    "subcategory": "jackets",
+    "image": "",
+    "explanation": "Jackets Product 3 is a Green Jackets from Brand 3, size XL, weighing 1.98 kg. It has a rating of 2.2 out of 5, is priced at 867.0, and currently 110 units are in stock.",
+    "slug": "jackets-product-3"
+  },
+  {
+    "id": "SHI_1",
+    "name": "Shirts Product 1",
+    "price": 966.23,
+    "stock": 19,
+    "rating": 4.0,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "7.07 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "Not what I expected."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Very poor quality."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Does the job."
+      }
+    ],
+    "category": "male",
+    "subcategory": "shirts",
+    "image": "",
+    "explanation": "Shirts Product 1 is a Blue Shirts from Brand 1, size M, weighing 7.07 kg. It has a rating of 4.0 out of 5, is priced at 966.23, and currently 19 units are in stock.",
+    "slug": "shirts-product-1"
+  },
+  {
+    "id": "SHI_2",
+    "name": "Shirts Product 2",
+    "price": 442.55,
+    "stock": 51,
+    "rating": 1.1,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "4.5 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Nothing special."
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "Not what I expected."
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user5",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      }
+    ],
+    "category": "male",
+    "subcategory": "shirts",
+    "image": "",
+    "explanation": "Shirts Product 2 is a Black Shirts from Brand 2, size L, weighing 4.5 kg. It has a rating of 1.1 out of 5, is priced at 442.55, and currently 51 units are in stock.",
+    "slug": "shirts-product-2"
+  },
+  {
+    "id": "SHI_3",
+    "name": "Shirts Product 3",
+    "price": 867.0,
+    "stock": 110,
+    "rating": 2.2,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "1.98 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Very poor quality."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "Average quality."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      }
+    ],
+    "category": "male",
+    "subcategory": "shirts",
+    "image": "",
+    "explanation": "Shirts Product 3 is a Green Shirts from Brand 3, size XL, weighing 1.98 kg. It has a rating of 2.2 out of 5, is priced at 867.0, and currently 110 units are in stock.",
+    "slug": "shirts-product-3"
+  },
+  {
+    "id": "T-S_1",
+    "name": "T-Shirts Product 1",
+    "price": 966.23,
+    "stock": 19,
+    "rating": 4.0,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "7.07 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Very poor quality."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Not what I expected."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Does the job."
+      }
+    ],
+    "category": "male",
+    "subcategory": "t-shirts",
+    "image": "",
+    "explanation": "T-Shirts Product 1 is a Blue T-Shirts from Brand 1, size M, weighing 7.07 kg. It has a rating of 4.0 out of 5, is priced at 966.23, and currently 19 units are in stock.",
+    "slug": "t-shirts-product-1"
+  },
+  {
+    "id": "T-S_2",
+    "name": "T-Shirts Product 2",
+    "price": 442.55,
+    "stock": 51,
+    "rating": 1.1,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "4.5 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Does the job."
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "Below average."
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Very poor quality."
+      },
+      {
+        "username": "user5",
+        "rating": 2,
+        "comment": "Not what I expected."
+      }
+    ],
+    "category": "male",
+    "subcategory": "t-shirts",
+    "image": "",
+    "explanation": "T-Shirts Product 2 is a Black T-Shirts from Brand 2, size L, weighing 4.5 kg. It has a rating of 1.1 out of 5, is priced at 442.55, and currently 51 units are in stock.",
+    "slug": "t-shirts-product-2"
+  },
+  {
+    "id": "T-S_3",
+    "name": "T-Shirts Product 3",
+    "price": 867.0,
+    "stock": 110,
+    "rating": 2.2,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "1.98 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Terrible experience."
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "Average quality."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Needs improvement."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Nothing special."
+      }
+    ],
+    "category": "male",
+    "subcategory": "t-shirts",
+    "image": "",
+    "explanation": "T-Shirts Product 3 is a Green T-Shirts from Brand 3, size XL, weighing 1.98 kg. It has a rating of 2.2 out of 5, is priced at 867.0, and currently 110 units are in stock.",
+    "slug": "t-shirts-product-3"
+  },
+  {
+    "id": "JEA_1",
+    "name": "Jeans Product 1",
+    "price": 831.66,
+    "stock": 91,
+    "rating": 2.7,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "0.38 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      },
+      {
+        "username": "user2",
+        "rating": 4,
+        "comment": "Would buy again."
+      },
+      {
+        "username": "user3",
+        "rating": 4,
+        "comment": "I'm happy with it."
+      },
+      {
+        "username": "user4",
+        "rating": 4,
+        "comment": "Good product."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Does the job."
+      }
+    ],
+    "category": "male",
+    "subcategory": "jeans",
+    "image": "",
+    "explanation": "Jeans Product 1 is a Blue Jeans from Brand 1, size M, weighing 0.38 kg. It has a rating of 2.7 out of 5, is priced at 831.66, and currently 91 units are in stock.",
+    "slug": "jeans-product-1"
+  },
+  {
+    "id": "JEA_2",
+    "name": "Jeans Product 2",
+    "price": 90.17,
+    "stock": 63,
+    "rating": 1.0,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "4.36 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 2,
+        "comment": "Below average."
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user3",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      },
+      {
+        "username": "user4",
+        "rating": 4,
+        "comment": "Worth the price."
+      },
+      {
+        "username": "user5",
+        "rating": 5,
+        "comment": "Absolutely love it."
+      }
+    ],
+    "category": "male",
+    "subcategory": "jeans",
+    "image": "",
+    "explanation": "Jeans Product 2 is a Black Jeans from Brand 2, size L, weighing 4.36 kg. It has a rating of 1.0 out of 5, is priced at 90.17, and currently 63 units are in stock.",
+    "slug": "jeans-product-2"
+  },
+  {
+    "id": "JEA_3",
+    "name": "Jeans Product 3",
+    "price": 307.67,
+    "stock": 19,
+    "rating": 2.7,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "2.61 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 2,
+        "comment": "Below average."
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Does the job."
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "It's okay."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "Nothing special."
+      },
+      {
+        "username": "user5",
+        "rating": 4,
+        "comment": "Worth the price."
+      }
+    ],
+    "category": "male",
+    "subcategory": "jeans",
+    "image": "",
+    "explanation": "Jeans Product 3 is a Green Jeans from Brand 3, size XL, weighing 2.61 kg. It has a rating of 2.7 out of 5, is priced at 307.67, and currently 19 units are in stock.",
+    "slug": "jeans-product-3"
+  },
+  {
+    "id": "SUI_1",
+    "name": "Suits Product 1",
+    "price": 966.23,
+    "stock": 19,
+    "rating": 4.0,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "7.07 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "Needs improvement."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Average quality."
+      }
+    ],
+    "category": "male",
+    "subcategory": "suits",
+    "image": "",
+    "explanation": "Suits Product 1 is a Blue Suits from Brand 1, size M, weighing 7.07 kg. It has a rating of 4.0 out of 5, is priced at 966.23, and currently 19 units are in stock.",
+    "slug": "suits-product-1"
+  },
+  {
+    "id": "SUI_2",
+    "name": "Suits Product 2",
+    "price": 442.55,
+    "stock": 51,
+    "rating": 1.1,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "4.5 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Average quality."
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user5",
+        "rating": 2,
+        "comment": "Could be better."
+      }
+    ],
+    "category": "male",
+    "subcategory": "suits",
+    "image": "",
+    "explanation": "Suits Product 2 is a Black Suits from Brand 2, size L, weighing 4.5 kg. It has a rating of 1.1 out of 5, is priced at 442.55, and currently 51 units are in stock.",
+    "slug": "suits-product-2"
+  },
+  {
+    "id": "SUI_3",
+    "name": "Suits Product 3",
+    "price": 867.0,
+    "stock": 110,
+    "rating": 2.2,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "1.98 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Very poor quality."
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Average quality."
+      }
+    ],
+    "category": "male",
+    "subcategory": "suits",
+    "image": "",
+    "explanation": "Suits Product 3 is a Green Suits from Brand 3, size XL, weighing 1.98 kg. It has a rating of 2.2 out of 5, is priced at 867.0, and currently 110 units are in stock.",
+    "slug": "suits-product-3"
+  },
+  {
+    "id": "JAC_1",
+    "name": "Jackets Product 1",
+    "price": 966.23,
+    "stock": 19,
+    "rating": 4.0,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "7.07 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Would not recommend."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Below average."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "It's okay."
+      }
+    ],
+    "category": "male",
+    "subcategory": "jackets",
+    "image": "",
+    "explanation": "Jackets Product 1 is a Blue Jackets from Brand 1, size M, weighing 7.07 kg. It has a rating of 4.0 out of 5, is priced at 966.23, and currently 19 units are in stock.",
+    "slug": "jackets-product-1"
+  },
+  {
+    "id": "JAC_2",
+    "name": "Jackets Product 2",
+    "price": 442.55,
+    "stock": 51,
+    "rating": 1.1,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "4.5 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "It's okay."
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "Below average."
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Very poor quality."
+      },
+      {
+        "username": "user5",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      }
+    ],
+    "category": "male",
+    "subcategory": "jackets",
+    "image": "",
+    "explanation": "Jackets Product 2 is a Black Jackets from Brand 2, size L, weighing 4.5 kg. It has a rating of 1.1 out of 5, is priced at 442.55, and currently 51 units are in stock.",
+    "slug": "jackets-product-2"
+  },
+  {
+    "id": "JAC_3",
+    "name": "Jackets Product 3",
+    "price": 867.0,
+    "stock": 110,
+    "rating": 2.2,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "1.98 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Not satisfied at all."
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "Does the job."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Needs improvement."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      }
+    ],
+    "category": "male",
+    "subcategory": "jackets",
+    "image": "",
+    "explanation": "Jackets Product 3 is a Green Jackets from Brand 3, size XL, weighing 1.98 kg. It has a rating of 2.2 out of 5, is priced at 867.0, and currently 110 units are in stock.",
+    "slug": "jackets-product-3"
+  },
+  {
+    "id": "BAB_1",
+    "name": "Baby Clothes Product 1",
+    "price": 966.23,
+    "stock": 19,
+    "rating": 4.0,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "7.07 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Absolutely love it."
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Very poor quality."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Needs improvement."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Nothing special."
+      }
+    ],
+    "category": "mother-child",
+    "subcategory": "baby-clothes",
+    "image": "",
+    "explanation": "Baby Clothes Product 1 is a Blue Baby Clothes from Brand 1, size M, weighing 7.07 kg. It has a rating of 4.0 out of 5, is priced at 966.23, and currently 19 units are in stock.",
+    "slug": "baby-clothes-product-1"
+  },
+  {
+    "id": "BAB_2",
+    "name": "Baby Clothes Product 2",
+    "price": 442.55,
+    "stock": 51,
+    "rating": 1.1,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "4.5 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Absolutely love it."
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "Below average."
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Would not recommend."
+      },
+      {
+        "username": "user5",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      }
+    ],
+    "category": "mother-child",
+    "subcategory": "baby-clothes",
+    "image": "",
+    "explanation": "Baby Clothes Product 2 is a Black Baby Clothes from Brand 2, size L, weighing 4.5 kg. It has a rating of 1.1 out of 5, is priced at 442.55, and currently 51 units are in stock.",
+    "slug": "baby-clothes-product-2"
+  },
+  {
+    "id": "BAB_3",
+    "name": "Baby Clothes Product 3",
+    "price": 867.0,
+    "stock": 110,
+    "rating": 2.2,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "1.98 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Very poor quality."
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Needs improvement."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Does the job."
+      }
+    ],
+    "category": "mother-child",
+    "subcategory": "baby-clothes",
+    "image": "",
+    "explanation": "Baby Clothes Product 3 is a Green Baby Clothes from Brand 3, size XL, weighing 1.98 kg. It has a rating of 2.2 out of 5, is priced at 867.0, and currently 110 units are in stock.",
+    "slug": "baby-clothes-product-3"
+  },
+  {
+    "id": "TOY_1",
+    "name": "Toys Product 1",
+    "price": 151.38,
+    "stock": 75,
+    "rating": 3.3,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "3.44 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      },
+      {
+        "username": "user2",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user4",
+        "rating": 4,
+        "comment": "Would buy again."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Not satisfied at all."
+      }
+    ],
+    "category": "mother-child",
+    "subcategory": "toys",
+    "image": "",
+    "explanation": "Toys Product 1 is a Blue Toys from Brand 1, size M, weighing 3.44 kg. It has a rating of 3.3 out of 5, is priced at 151.38, and currently 75 units are in stock.",
+    "slug": "toys-product-1"
+  },
+  {
+    "id": "TOY_2",
+    "name": "Toys Product 2",
+    "price": 511.35,
+    "stock": 77,
+    "rating": 1.3,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "1.62 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 2,
+        "comment": "Not what I expected."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Not satisfied at all."
+      },
+      {
+        "username": "user3",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      },
+      {
+        "username": "user4",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "It's okay."
+      }
+    ],
+    "category": "mother-child",
+    "subcategory": "toys",
+    "image": "",
+    "explanation": "Toys Product 2 is a Black Toys from Brand 2, size L, weighing 1.62 kg. It has a rating of 1.3 out of 5, is priced at 511.35, and currently 77 units are in stock.",
+    "slug": "toys-product-2"
+  },
+  {
+    "id": "TOY_3",
+    "name": "Toys Product 3",
+    "price": 800.03,
+    "stock": 60,
+    "rating": 1.2,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "5.6 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user2",
+        "rating": 4,
+        "comment": "Good product."
+      },
+      {
+        "username": "user3",
+        "rating": 4,
+        "comment": "Would buy again."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Not what I expected."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      }
+    ],
+    "category": "mother-child",
+    "subcategory": "toys",
+    "image": "",
+    "explanation": "Toys Product 3 is a Green Toys from Brand 3, size XL, weighing 5.6 kg. It has a rating of 1.2 out of 5, is priced at 800.03, and currently 60 units are in stock.",
+    "slug": "toys-product-3"
+  },
+  {
+    "id": "MAT_1",
+    "name": "Maternity Wear Product 1",
+    "price": 10.07,
+    "stock": 73,
+    "rating": 1.6,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "4.43 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user3",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      },
+      {
+        "username": "user4",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      },
+      {
+        "username": "user5",
+        "rating": 2,
+        "comment": "Could be better."
+      }
+    ],
+    "category": "mother-child",
+    "subcategory": "maternity-wear",
+    "image": "",
+    "explanation": "Maternity Wear Product 1 is a Blue Maternity Wear from Brand 1, size M, weighing 4.43 kg. It has a rating of 1.6 out of 5, is priced at 10.07, and currently 73 units are in stock.",
+    "slug": "maternity-wear-product-1"
+  },
+  {
+    "id": "MAT_2",
+    "name": "Maternity Wear Product 2",
+    "price": 987.92,
+    "stock": 7,
+    "rating": 4.3,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "5.69 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      },
+      {
+        "username": "user2",
+        "rating": 4,
+        "comment": "Quite satisfied."
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Very poor quality."
+      },
+      {
+        "username": "user5",
+        "rating": 4,
+        "comment": "I'm happy with it."
+      }
+    ],
+    "category": "mother-child",
+    "subcategory": "maternity-wear",
+    "image": "",
+    "explanation": "Maternity Wear Product 2 is a Black Maternity Wear from Brand 2, size L, weighing 5.69 kg. It has a rating of 4.3 out of 5, is priced at 987.92, and currently 7 units are in stock.",
+    "slug": "maternity-wear-product-2"
+  },
+  {
+    "id": "MAT_3",
+    "name": "Maternity Wear Product 3",
+    "price": 77.93,
+    "stock": 45,
+    "rating": 1.1,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "6.53 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "Below average."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Not satisfied at all."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "It's okay."
+      },
+      {
+        "username": "user5",
+        "rating": 5,
+        "comment": "Absolutely love it."
+      }
+    ],
+    "category": "mother-child",
+    "subcategory": "maternity-wear",
+    "image": "",
+    "explanation": "Maternity Wear Product 3 is a Green Maternity Wear from Brand 3, size XL, weighing 6.53 kg. It has a rating of 1.1 out of 5, is priced at 77.93, and currently 45 units are in stock.",
+    "slug": "maternity-wear-product-3"
+  },
+  {
+    "id": "KID_1",
+    "name": "Kids Shoes Product 1",
+    "price": 503.82,
+    "stock": 80,
+    "rating": 2.6,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "5.37 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Terrible experience."
+      },
+      {
+        "username": "user2",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user3",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Not satisfied at all."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      }
+    ],
+    "category": "mother-child",
+    "subcategory": "kids-shoes",
+    "image": "",
+    "explanation": "Kids Shoes Product 1 is a Blue Kids Shoes from Brand 1, size M, weighing 5.37 kg. It has a rating of 2.6 out of 5, is priced at 503.82, and currently 80 units are in stock.",
+    "slug": "kids-shoes-product-1"
+  },
+  {
+    "id": "KID_2",
+    "name": "Kids Shoes Product 2",
+    "price": 872.94,
+    "stock": 31,
+    "rating": 4.2,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "4.44 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Excellent quality!"
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user3",
+        "rating": 5,
+        "comment": "Excellent quality!"
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Below average."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      }
+    ],
+    "category": "mother-child",
+    "subcategory": "kids-shoes",
+    "image": "",
+    "explanation": "Kids Shoes Product 2 is a Black Kids Shoes from Brand 2, size L, weighing 4.44 kg. It has a rating of 4.2 out of 5, is priced at 872.94, and currently 31 units are in stock.",
+    "slug": "kids-shoes-product-2"
+  },
+  {
+    "id": "KID_3",
+    "name": "Kids Shoes Product 3",
+    "price": 608.09,
+    "stock": 47,
+    "rating": 3.9,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "1.92 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Absolutely love it."
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Nothing special."
+      },
+      {
+        "username": "user3",
+        "rating": 4,
+        "comment": "I'm happy with it."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      },
+      {
+        "username": "user5",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      }
+    ],
+    "category": "mother-child",
+    "subcategory": "kids-shoes",
+    "image": "",
+    "explanation": "Kids Shoes Product 3 is a Green Kids Shoes from Brand 3, size XL, weighing 1.92 kg. It has a rating of 3.9 out of 5, is priced at 608.09, and currently 47 units are in stock.",
+    "slug": "kids-shoes-product-3"
+  },
+  {
+    "id": "STR_1",
+    "name": "Strollers Product 1",
+    "price": 10.07,
+    "stock": 73,
+    "rating": 1.6,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "4.43 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Excellent quality!"
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "Below average."
+      },
+      {
+        "username": "user3",
+        "rating": 5,
+        "comment": "Absolutely love it."
+      },
+      {
+        "username": "user4",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user5",
+        "rating": 2,
+        "comment": "Below average."
+      }
+    ],
+    "category": "mother-child",
+    "subcategory": "strollers",
+    "image": "",
+    "explanation": "Strollers Product 1 is a Blue Strollers from Brand 1, size M, weighing 4.43 kg. It has a rating of 1.6 out of 5, is priced at 10.07, and currently 73 units are in stock.",
+    "slug": "strollers-product-1"
+  },
+  {
+    "id": "STR_2",
+    "name": "Strollers Product 2",
+    "price": 987.92,
+    "stock": 7,
+    "rating": 4.3,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "5.69 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 3,
+        "comment": "Nothing special."
+      },
+      {
+        "username": "user2",
+        "rating": 4,
+        "comment": "Worth the price."
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "Does the job."
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Very poor quality."
+      },
+      {
+        "username": "user5",
+        "rating": 4,
+        "comment": "Would buy again."
+      }
+    ],
+    "category": "mother-child",
+    "subcategory": "strollers",
+    "image": "",
+    "explanation": "Strollers Product 2 is a Black Strollers from Brand 2, size L, weighing 5.69 kg. It has a rating of 4.3 out of 5, is priced at 987.92, and currently 7 units are in stock.",
+    "slug": "strollers-product-2"
+  },
+  {
+    "id": "STR_3",
+    "name": "Strollers Product 3",
+    "price": 77.93,
+    "stock": 45,
+    "rating": 1.1,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "6.53 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "Needs improvement."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Very poor quality."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "It's okay."
+      },
+      {
+        "username": "user5",
+        "rating": 5,
+        "comment": "Absolutely love it."
+      }
+    ],
+    "category": "mother-child",
+    "subcategory": "strollers",
+    "image": "",
+    "explanation": "Strollers Product 3 is a Green Strollers from Brand 3, size XL, weighing 6.53 kg. It has a rating of 1.1 out of 5, is priced at 77.93, and currently 45 units are in stock.",
+    "slug": "strollers-product-3"
+  },
+  {
+    "id": "SOF_1",
+    "name": "Sofas Product 1",
+    "price": 772.01,
+    "stock": 92,
+    "rating": 4.6,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "6.1 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 4,
+        "comment": "Worth the price."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Would not recommend."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Would not recommend."
+      }
+    ],
+    "category": "home-furniture",
+    "subcategory": "sofas",
+    "image": "",
+    "explanation": "Sofas Product 1 is a Blue Sofas from Brand 1, size M, weighing 6.1 kg. It has a rating of 4.6 out of 5, is priced at 772.01, and currently 92 units are in stock.",
+    "slug": "sofas-product-1"
+  },
+  {
+    "id": "SOF_2",
+    "name": "Sofas Product 2",
+    "price": 738.65,
+    "stock": 81,
+    "rating": 3.6,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "6.76 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Absolutely love it."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Not satisfied at all."
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Not what I expected."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Not satisfied at all."
+      }
+    ],
+    "category": "home-furniture",
+    "subcategory": "sofas",
+    "image": "",
+    "explanation": "Sofas Product 2 is a Black Sofas from Brand 2, size L, weighing 6.76 kg. It has a rating of 3.6 out of 5, is priced at 738.65, and currently 81 units are in stock.",
+    "slug": "sofas-product-2"
+  },
+  {
+    "id": "SOF_3",
+    "name": "Sofas Product 3",
+    "price": 403.08,
+    "stock": 5,
+    "rating": 4.5,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "3.92 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 2,
+        "comment": "Not what I expected."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user3",
+        "rating": 5,
+        "comment": "Absolutely love it."
+      },
+      {
+        "username": "user4",
+        "rating": 4,
+        "comment": "Would buy again."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Very poor quality."
+      }
+    ],
+    "category": "home-furniture",
+    "subcategory": "sofas",
+    "image": "",
+    "explanation": "Sofas Product 3 is a Green Sofas from Brand 3, size XL, weighing 3.92 kg. It has a rating of 4.5 out of 5, is priced at 403.08, and currently 5 units are in stock.",
+    "slug": "sofas-product-3"
+  },
+  {
+    "id": "BED_1",
+    "name": "Beds Product 1",
+    "price": 492.76,
+    "stock": 118,
+    "rating": 2.0,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "5.27 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Excellent quality!"
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user3",
+        "rating": 4,
+        "comment": "Quite satisfied."
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Not satisfied at all."
+      },
+      {
+        "username": "user5",
+        "rating": 2,
+        "comment": "Not what I expected."
+      }
+    ],
+    "category": "home-furniture",
+    "subcategory": "beds",
+    "image": "",
+    "explanation": "Beds Product 1 is a Blue Beds from Brand 1, size M, weighing 5.27 kg. It has a rating of 2.0 out of 5, is priced at 492.76, and currently 118 units are in stock.",
+    "slug": "beds-product-1"
+  },
+  {
+    "id": "BED_2",
+    "name": "Beds Product 2",
+    "price": 856.94,
+    "stock": 100,
+    "rating": 3.4,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "7.57 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 4,
+        "comment": "Would buy again."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Terrible experience."
+      },
+      {
+        "username": "user3",
+        "rating": 4,
+        "comment": "Worth the price."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Not satisfied at all."
+      }
+    ],
+    "category": "home-furniture",
+    "subcategory": "beds",
+    "image": "",
+    "explanation": "Beds Product 2 is a Black Beds from Brand 2, size L, weighing 7.57 kg. It has a rating of 3.4 out of 5, is priced at 856.94, and currently 100 units are in stock.",
+    "slug": "beds-product-2"
+  },
+  {
+    "id": "BED_3",
+    "name": "Beds Product 3",
+    "price": 329.32,
+    "stock": 115,
+    "rating": 3.7,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "6.24 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 4,
+        "comment": "Worth the price."
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "Average quality."
+      },
+      {
+        "username": "user5",
+        "rating": 2,
+        "comment": "Not what I expected."
+      }
+    ],
+    "category": "home-furniture",
+    "subcategory": "beds",
+    "image": "",
+    "explanation": "Beds Product 3 is a Green Beds from Brand 3, size XL, weighing 6.24 kg. It has a rating of 3.7 out of 5, is priced at 329.32, and currently 115 units are in stock.",
+    "slug": "beds-product-3"
+  },
+  {
+    "id": "TAB_1",
+    "name": "Tables Product 1",
+    "price": 33.54,
+    "stock": 45,
+    "rating": 4.1,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "3.1 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 4,
+        "comment": "I'm happy with it."
+      },
+      {
+        "username": "user2",
+        "rating": 4,
+        "comment": "Good product."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Very poor quality."
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Very poor quality."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Does the job."
+      }
+    ],
+    "category": "home-furniture",
+    "subcategory": "tables",
+    "image": "",
+    "explanation": "Tables Product 1 is a Blue Tables from Brand 1, size M, weighing 3.1 kg. It has a rating of 4.1 out of 5, is priced at 33.54, and currently 45 units are in stock.",
+    "slug": "tables-product-1"
+  },
+  {
+    "id": "TAB_2",
+    "name": "Tables Product 2",
+    "price": 415.44,
+    "stock": 63,
+    "rating": 4.9,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "1.03 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      },
+      {
+        "username": "user2",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user3",
+        "rating": 4,
+        "comment": "Worth the price."
+      },
+      {
+        "username": "user4",
+        "rating": 4,
+        "comment": "Would buy again."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Average quality."
+      }
+    ],
+    "category": "home-furniture",
+    "subcategory": "tables",
+    "image": "",
+    "explanation": "Tables Product 2 is a Black Tables from Brand 2, size L, weighing 1.03 kg. It has a rating of 4.9 out of 5, is priced at 415.44, and currently 63 units are in stock.",
+    "slug": "tables-product-2"
+  },
+  {
+    "id": "TAB_3",
+    "name": "Tables Product 3",
+    "price": 806.06,
+    "stock": 117,
+    "rating": 4.0,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "7.03 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user2",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "Average quality."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Below average."
+      },
+      {
+        "username": "user5",
+        "rating": 2,
+        "comment": "Needs improvement."
+      }
+    ],
+    "category": "home-furniture",
+    "subcategory": "tables",
+    "image": "",
+    "explanation": "Tables Product 3 is a Green Tables from Brand 3, size XL, weighing 7.03 kg. It has a rating of 4.0 out of 5, is priced at 806.06, and currently 117 units are in stock.",
+    "slug": "tables-product-3"
+  },
+  {
+    "id": "CHA_1",
+    "name": "Chairs Product 1",
+    "price": 27.33,
+    "stock": 36,
+    "rating": 1.7,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "4.97 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 3,
+        "comment": "Does the job."
+      },
+      {
+        "username": "user2",
+        "rating": 5,
+        "comment": "Excellent quality!"
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "Needs improvement."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "Nothing special."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      }
+    ],
+    "category": "home-furniture",
+    "subcategory": "chairs",
+    "image": "",
+    "explanation": "Chairs Product 1 is a Blue Chairs from Brand 1, size M, weighing 4.97 kg. It has a rating of 1.7 out of 5, is priced at 27.33, and currently 36 units are in stock.",
+    "slug": "chairs-product-1"
+  },
+  {
+    "id": "CHA_2",
+    "name": "Chairs Product 2",
+    "price": 283.38,
+    "stock": 78,
+    "rating": 4.0,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "1.17 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user2",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      },
+      {
+        "username": "user3",
+        "rating": 4,
+        "comment": "Good product."
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user5",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      }
+    ],
+    "category": "home-furniture",
+    "subcategory": "chairs",
+    "image": "",
+    "explanation": "Chairs Product 2 is a Black Chairs from Brand 2, size L, weighing 1.17 kg. It has a rating of 4.0 out of 5, is priced at 283.38, and currently 78 units are in stock.",
+    "slug": "chairs-product-2"
+  },
+  {
+    "id": "CHA_3",
+    "name": "Chairs Product 3",
+    "price": 66.17,
+    "stock": 92,
+    "rating": 1.5,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "0.67 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 4,
+        "comment": "Worth the price."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "Does the job."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "It's okay."
+      },
+      {
+        "username": "user5",
+        "rating": 4,
+        "comment": "Worth the price."
+      }
+    ],
+    "category": "home-furniture",
+    "subcategory": "chairs",
+    "image": "",
+    "explanation": "Chairs Product 3 is a Green Chairs from Brand 3, size XL, weighing 0.67 kg. It has a rating of 1.5 out of 5, is priced at 66.17, and currently 92 units are in stock.",
+    "slug": "chairs-product-3"
+  },
+  {
+    "id": "WAR_1",
+    "name": "Wardrobes Product 1",
+    "price": 735.44,
+    "stock": 9,
+    "rating": 3.3,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "3.66 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Would not recommend."
+      },
+      {
+        "username": "user2",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "Below average."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user5",
+        "rating": 2,
+        "comment": "Not what I expected."
+      }
+    ],
+    "category": "home-furniture",
+    "subcategory": "wardrobes",
+    "image": "",
+    "explanation": "Wardrobes Product 1 is a Blue Wardrobes from Brand 1, size M, weighing 3.66 kg. It has a rating of 3.3 out of 5, is priced at 735.44, and currently 9 units are in stock.",
+    "slug": "wardrobes-product-1"
+  },
+  {
+    "id": "WAR_2",
+    "name": "Wardrobes Product 2",
+    "price": 680.57,
+    "stock": 33,
+    "rating": 3.9,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "4.58 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 3,
+        "comment": "Nothing special."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Would not recommend."
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "Nothing special."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user5",
+        "rating": 4,
+        "comment": "Would buy again."
+      }
+    ],
+    "category": "home-furniture",
+    "subcategory": "wardrobes",
+    "image": "",
+    "explanation": "Wardrobes Product 2 is a Black Wardrobes from Brand 2, size L, weighing 4.58 kg. It has a rating of 3.9 out of 5, is priced at 680.57, and currently 33 units are in stock.",
+    "slug": "wardrobes-product-2"
+  },
+  {
+    "id": "WAR_3",
+    "name": "Wardrobes Product 3",
+    "price": 972.82,
+    "stock": 115,
+    "rating": 3.6,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "0.53 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user2",
+        "rating": 4,
+        "comment": "Good product."
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Not what I expected."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Terrible experience."
+      }
+    ],
+    "category": "home-furniture",
+    "subcategory": "wardrobes",
+    "image": "",
+    "explanation": "Wardrobes Product 3 is a Green Wardrobes from Brand 3, size XL, weighing 0.53 kg. It has a rating of 3.6 out of 5, is priced at 972.82, and currently 115 units are in stock.",
+    "slug": "wardrobes-product-3"
+  },
+  {
+    "id": "SNA_1",
+    "name": "Snacks Product 1",
+    "price": 213.97,
+    "stock": 71,
+    "rating": 3.3,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "4.82 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 4,
+        "comment": "Worth the price."
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "Not what I expected."
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "Needs improvement."
+      },
+      {
+        "username": "user4",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      },
+      {
+        "username": "user5",
+        "rating": 5,
+        "comment": "Excellent quality!"
+      }
+    ],
+    "category": "super-market",
+    "subcategory": "snacks",
+    "image": "",
+    "explanation": "Snacks Product 1 is a Blue Snacks from Brand 1, size M, weighing 4.82 kg. It has a rating of 3.3 out of 5, is priced at 213.97, and currently 71 units are in stock.",
+    "slug": "snacks-product-1"
+  },
+  {
+    "id": "SNA_2",
+    "name": "Snacks Product 2",
+    "price": 307.74,
+    "stock": 57,
+    "rating": 3.7,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "6.46 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 4,
+        "comment": "Would buy again."
+      },
+      {
+        "username": "user2",
+        "rating": 4,
+        "comment": "Good product."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user4",
+        "rating": 4,
+        "comment": "Quite satisfied."
+      },
+      {
+        "username": "user5",
+        "rating": 5,
+        "comment": "Absolutely love it."
+      }
+    ],
+    "category": "super-market",
+    "subcategory": "snacks",
+    "image": "",
+    "explanation": "Snacks Product 2 is a Black Snacks from Brand 2, size L, weighing 6.46 kg. It has a rating of 3.7 out of 5, is priced at 307.74, and currently 57 units are in stock.",
+    "slug": "snacks-product-2"
+  },
+  {
+    "id": "SNA_3",
+    "name": "Snacks Product 3",
+    "price": 250.46,
+    "stock": 41,
+    "rating": 3.4,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "7.71 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 3,
+        "comment": "It's okay."
+      },
+      {
+        "username": "user2",
+        "rating": 4,
+        "comment": "I'm happy with it."
+      },
+      {
+        "username": "user3",
+        "rating": 5,
+        "comment": "Excellent quality!"
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user5",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      }
+    ],
+    "category": "super-market",
+    "subcategory": "snacks",
+    "image": "",
+    "explanation": "Snacks Product 3 is a Green Snacks from Brand 3, size XL, weighing 7.71 kg. It has a rating of 3.4 out of 5, is priced at 250.46, and currently 41 units are in stock.",
+    "slug": "snacks-product-3"
+  },
+  {
+    "id": "BEV_1",
+    "name": "Beverages Product 1",
+    "price": 496.89,
+    "stock": 85,
+    "rating": 1.1,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "0.72 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 3,
+        "comment": "Nothing special."
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Does the job."
+      },
+      {
+        "username": "user3",
+        "rating": 4,
+        "comment": "I'm happy with it."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "It's okay."
+      },
+      {
+        "username": "user5",
+        "rating": 4,
+        "comment": "Worth the price."
+      }
+    ],
+    "category": "super-market",
+    "subcategory": "beverages",
+    "image": "",
+    "explanation": "Beverages Product 1 is a Blue Beverages from Brand 1, size M, weighing 0.72 kg. It has a rating of 1.1 out of 5, is priced at 496.89, and currently 85 units are in stock.",
+    "slug": "beverages-product-1"
+  },
+  {
+    "id": "BEV_2",
+    "name": "Beverages Product 2",
+    "price": 392.63,
+    "stock": 81,
+    "rating": 1.6,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "1.81 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 3,
+        "comment": "Average quality."
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "Not what I expected."
+      },
+      {
+        "username": "user3",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Average quality."
+      }
+    ],
+    "category": "super-market",
+    "subcategory": "beverages",
+    "image": "",
+    "explanation": "Beverages Product 2 is a Black Beverages from Brand 2, size L, weighing 1.81 kg. It has a rating of 1.6 out of 5, is priced at 392.63, and currently 81 units are in stock.",
+    "slug": "beverages-product-2"
+  },
+  {
+    "id": "BEV_3",
+    "name": "Beverages Product 3",
+    "price": 306.0,
+    "stock": 114,
+    "rating": 2.9,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "4.88 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user2",
+        "rating": 4,
+        "comment": "Good product."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Terrible experience."
+      },
+      {
+        "username": "user4",
+        "rating": 5,
+        "comment": "Excellent quality!"
+      },
+      {
+        "username": "user5",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      }
+    ],
+    "category": "super-market",
+    "subcategory": "beverages",
+    "image": "",
+    "explanation": "Beverages Product 3 is a Green Beverages from Brand 3, size XL, weighing 4.88 kg. It has a rating of 2.9 out of 5, is priced at 306.0, and currently 114 units are in stock.",
+    "slug": "beverages-product-3"
+  },
+  {
+    "id": "FRU_1",
+    "name": "Fruits Product 1",
+    "price": 703.91,
+    "stock": 62,
+    "rating": 4.0,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "5.71 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 3,
+        "comment": "Does the job."
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "Not what I expected."
+      },
+      {
+        "username": "user3",
+        "rating": 4,
+        "comment": "Good product."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "Nothing special."
+      },
+      {
+        "username": "user5",
+        "rating": 4,
+        "comment": "Would buy again."
+      }
+    ],
+    "category": "super-market",
+    "subcategory": "fruits",
+    "image": "",
+    "explanation": "Fruits Product 1 is a Blue Fruits from Brand 1, size M, weighing 5.71 kg. It has a rating of 4.0 out of 5, is priced at 703.91, and currently 62 units are in stock.",
+    "slug": "fruits-product-1"
+  },
+  {
+    "id": "FRU_2",
+    "name": "Fruits Product 2",
+    "price": 898.5,
+    "stock": 82,
+    "rating": 4.4,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "5.81 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 2,
+        "comment": "Needs improvement."
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Does the job."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Would not recommend."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Needs improvement."
+      },
+      {
+        "username": "user5",
+        "rating": 5,
+        "comment": "Excellent quality!"
+      }
+    ],
+    "category": "super-market",
+    "subcategory": "fruits",
+    "image": "",
+    "explanation": "Fruits Product 2 is a Black Fruits from Brand 2, size L, weighing 5.81 kg. It has a rating of 4.4 out of 5, is priced at 898.5, and currently 82 units are in stock.",
+    "slug": "fruits-product-2"
+  },
+  {
+    "id": "FRU_3",
+    "name": "Fruits Product 3",
+    "price": 485.06,
+    "stock": 39,
+    "rating": 3.7,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "5.01 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 3,
+        "comment": "Does the job."
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Average quality."
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      },
+      {
+        "username": "user4",
+        "rating": 5,
+        "comment": "Absolutely love it."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Not satisfied at all."
+      }
+    ],
+    "category": "super-market",
+    "subcategory": "fruits",
+    "image": "",
+    "explanation": "Fruits Product 3 is a Green Fruits from Brand 3, size XL, weighing 5.01 kg. It has a rating of 3.7 out of 5, is priced at 485.06, and currently 39 units are in stock.",
+    "slug": "fruits-product-3"
+  },
+  {
+    "id": "VEG_1",
+    "name": "Vegetables Product 1",
+    "price": 161.78,
+    "stock": 53,
+    "rating": 2.8,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "7.87 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Average quality."
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Would not recommend."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Terrible experience."
+      }
+    ],
+    "category": "super-market",
+    "subcategory": "vegetables",
+    "image": "",
+    "explanation": "Vegetables Product 1 is a Blue Vegetables from Brand 1, size M, weighing 7.87 kg. It has a rating of 2.8 out of 5, is priced at 161.78, and currently 53 units are in stock.",
+    "slug": "vegetables-product-1"
+  },
+  {
+    "id": "VEG_2",
+    "name": "Vegetables Product 2",
+    "price": 812.37,
+    "stock": 86,
+    "rating": 2.1,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "5.05 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 4,
+        "comment": "Good product."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Not satisfied at all."
+      },
+      {
+        "username": "user3",
+        "rating": 4,
+        "comment": "Would buy again."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "It's okay."
+      },
+      {
+        "username": "user5",
+        "rating": 5,
+        "comment": "Excellent quality!"
+      }
+    ],
+    "category": "super-market",
+    "subcategory": "vegetables",
+    "image": "",
+    "explanation": "Vegetables Product 2 is a Black Vegetables from Brand 2, size L, weighing 5.05 kg. It has a rating of 2.1 out of 5, is priced at 812.37, and currently 86 units are in stock.",
+    "slug": "vegetables-product-2"
+  },
+  {
+    "id": "VEG_3",
+    "name": "Vegetables Product 3",
+    "price": 28.8,
+    "stock": 113,
+    "rating": 2.3,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "0.68 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "Needs improvement."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Would not recommend."
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Not satisfied at all."
+      },
+      {
+        "username": "user5",
+        "rating": 2,
+        "comment": "Could be better."
+      }
+    ],
+    "category": "super-market",
+    "subcategory": "vegetables",
+    "image": "",
+    "explanation": "Vegetables Product 3 is a Green Vegetables from Brand 3, size XL, weighing 0.68 kg. It has a rating of 2.3 out of 5, is priced at 28.8, and currently 113 units are in stock.",
+    "slug": "vegetables-product-3"
+  },
+  {
+    "id": "DAI_1",
+    "name": "Dairy Product 1",
+    "price": 496.89,
+    "stock": 85,
+    "rating": 1.1,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "0.72 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Nothing special."
+      },
+      {
+        "username": "user3",
+        "rating": 4,
+        "comment": "Quite satisfied."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "Does the job."
+      },
+      {
+        "username": "user5",
+        "rating": 4,
+        "comment": "Quite satisfied."
+      }
+    ],
+    "category": "super-market",
+    "subcategory": "dairy",
+    "image": "",
+    "explanation": "Dairy Product 1 is a Blue Dairy from Brand 1, size M, weighing 0.72 kg. It has a rating of 1.1 out of 5, is priced at 496.89, and currently 85 units are in stock.",
+    "slug": "dairy-product-1"
+  },
+  {
+    "id": "DAI_2",
+    "name": "Dairy Product 2",
+    "price": 392.63,
+    "stock": 81,
+    "rating": 1.6,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "1.81 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 3,
+        "comment": "It's okay."
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "Below average."
+      },
+      {
+        "username": "user3",
+        "rating": 5,
+        "comment": "Absolutely love it."
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Terrible experience."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Does the job."
+      }
+    ],
+    "category": "super-market",
+    "subcategory": "dairy",
+    "image": "",
+    "explanation": "Dairy Product 2 is a Black Dairy from Brand 2, size L, weighing 1.81 kg. It has a rating of 1.6 out of 5, is priced at 392.63, and currently 81 units are in stock.",
+    "slug": "dairy-product-2"
+  },
+  {
+    "id": "DAI_3",
+    "name": "Dairy Product 3",
+    "price": 306.0,
+    "stock": 114,
+    "rating": 2.9,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "4.88 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      },
+      {
+        "username": "user2",
+        "rating": 4,
+        "comment": "Quite satisfied."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Would not recommend."
+      },
+      {
+        "username": "user4",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user5",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      }
+    ],
+    "category": "super-market",
+    "subcategory": "dairy",
+    "image": "",
+    "explanation": "Dairy Product 3 is a Green Dairy from Brand 3, size XL, weighing 4.88 kg. It has a rating of 2.9 out of 5, is priced at 306.0, and currently 114 units are in stock.",
+    "slug": "dairy-product-3"
+  },
+  {
+    "id": "LIP_1",
+    "name": "Lipsticks Product 1",
+    "price": 208.75,
+    "stock": 57,
+    "rating": 3.8,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "2.52 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Very poor quality."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Very poor quality."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user5",
+        "rating": 2,
+        "comment": "Could be better."
+      }
+    ],
+    "category": "cosmetics",
+    "subcategory": "lipsticks",
+    "image": "",
+    "explanation": "Lipsticks Product 1 is a Blue Lipsticks from Brand 1, size M, weighing 2.52 kg. It has a rating of 3.8 out of 5, is priced at 208.75, and currently 57 units are in stock.",
+    "slug": "lipsticks-product-1"
+  },
+  {
+    "id": "LIP_2",
+    "name": "Lipsticks Product 2",
+    "price": 694.48,
+    "stock": 26,
+    "rating": 2.6,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "2.65 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 3,
+        "comment": "Nothing special."
+      },
+      {
+        "username": "user2",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user4",
+        "rating": 5,
+        "comment": "Excellent quality!"
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Would not recommend."
+      }
+    ],
+    "category": "cosmetics",
+    "subcategory": "lipsticks",
+    "image": "",
+    "explanation": "Lipsticks Product 2 is a Black Lipsticks from Brand 2, size L, weighing 2.65 kg. It has a rating of 2.6 out of 5, is priced at 694.48, and currently 26 units are in stock.",
+    "slug": "lipsticks-product-2"
+  },
+  {
+    "id": "LIP_3",
+    "name": "Lipsticks Product 3",
+    "price": 139.97,
+    "stock": 49,
+    "rating": 2.8,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "0.57 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Not satisfied at all."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Terrible experience."
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "It's okay."
+      },
+      {
+        "username": "user5",
+        "rating": 4,
+        "comment": "Quite satisfied."
+      }
+    ],
+    "category": "cosmetics",
+    "subcategory": "lipsticks",
+    "image": "",
+    "explanation": "Lipsticks Product 3 is a Green Lipsticks from Brand 3, size XL, weighing 0.57 kg. It has a rating of 2.8 out of 5, is priced at 139.97, and currently 49 units are in stock.",
+    "slug": "lipsticks-product-3"
+  },
+  {
+    "id": "FOU_1",
+    "name": "Foundations Product 1",
+    "price": 530.71,
+    "stock": 95,
+    "rating": 1.4,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "3.45 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user2",
+        "rating": 4,
+        "comment": "Worth the price."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "Does the job."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Average quality."
+      }
+    ],
+    "category": "cosmetics",
+    "subcategory": "foundations",
+    "image": "",
+    "explanation": "Foundations Product 1 is a Blue Foundations from Brand 1, size M, weighing 3.45 kg. It has a rating of 1.4 out of 5, is priced at 530.71, and currently 95 units are in stock.",
+    "slug": "foundations-product-1"
+  },
+  {
+    "id": "FOU_2",
+    "name": "Foundations Product 2",
+    "price": 136.42,
+    "stock": 46,
+    "rating": 4.2,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "4.84 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Very poor quality."
+      },
+      {
+        "username": "user2",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "Nothing special."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "It's okay."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Nothing special."
+      }
+    ],
+    "category": "cosmetics",
+    "subcategory": "foundations",
+    "image": "",
+    "explanation": "Foundations Product 2 is a Black Foundations from Brand 2, size L, weighing 4.84 kg. It has a rating of 4.2 out of 5, is priced at 136.42, and currently 46 units are in stock.",
+    "slug": "foundations-product-2"
+  },
+  {
+    "id": "FOU_3",
+    "name": "Foundations Product 3",
+    "price": 186.29,
+    "stock": 47,
+    "rating": 1.9,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "5.92 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 2,
+        "comment": "Not what I expected."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Would not recommend."
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user4",
+        "rating": 4,
+        "comment": "Quite satisfied."
+      },
+      {
+        "username": "user5",
+        "rating": 4,
+        "comment": "Quite satisfied."
+      }
+    ],
+    "category": "cosmetics",
+    "subcategory": "foundations",
+    "image": "",
+    "explanation": "Foundations Product 3 is a Green Foundations from Brand 3, size XL, weighing 5.92 kg. It has a rating of 1.9 out of 5, is priced at 186.29, and currently 47 units are in stock.",
+    "slug": "foundations-product-3"
+  },
+  {
+    "id": "PER_1",
+    "name": "Perfumes Product 1",
+    "price": 887.9,
+    "stock": 105,
+    "rating": 2.2,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "1.25 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 4,
+        "comment": "Would buy again."
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "Average quality."
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Very poor quality."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Average quality."
+      }
+    ],
+    "category": "cosmetics",
+    "subcategory": "perfumes",
+    "image": "",
+    "explanation": "Perfumes Product 1 is a Blue Perfumes from Brand 1, size M, weighing 1.25 kg. It has a rating of 2.2 out of 5, is priced at 887.9, and currently 105 units are in stock.",
+    "slug": "perfumes-product-1"
+  },
+  {
+    "id": "PER_2",
+    "name": "Perfumes Product 2",
+    "price": 89.41,
+    "stock": 108,
+    "rating": 4.7,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "6.46 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Would not recommend."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Not satisfied at all."
+      },
+      {
+        "username": "user3",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      },
+      {
+        "username": "user4",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Average quality."
+      }
+    ],
+    "category": "cosmetics",
+    "subcategory": "perfumes",
+    "image": "",
+    "explanation": "Perfumes Product 2 is a Black Perfumes from Brand 2, size L, weighing 6.46 kg. It has a rating of 4.7 out of 5, is priced at 89.41, and currently 108 units are in stock.",
+    "slug": "perfumes-product-2"
+  },
+  {
+    "id": "PER_3",
+    "name": "Perfumes Product 3",
+    "price": 332.52,
+    "stock": 116,
+    "rating": 1.4,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "3.56 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 4,
+        "comment": "Worth the price."
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "Below average."
+      },
+      {
+        "username": "user3",
+        "rating": 4,
+        "comment": "Worth the price."
+      },
+      {
+        "username": "user4",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      },
+      {
+        "username": "user5",
+        "rating": 4,
+        "comment": "Would buy again."
+      }
+    ],
+    "category": "cosmetics",
+    "subcategory": "perfumes",
+    "image": "",
+    "explanation": "Perfumes Product 3 is a Green Perfumes from Brand 3, size XL, weighing 3.56 kg. It has a rating of 1.4 out of 5, is priced at 332.52, and currently 116 units are in stock.",
+    "slug": "perfumes-product-3"
+  },
+  {
+    "id": "MOI_1",
+    "name": "Moisturizers Product 1",
+    "price": 530.71,
+    "stock": 95,
+    "rating": 1.4,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "3.45 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 2,
+        "comment": "Not what I expected."
+      },
+      {
+        "username": "user2",
+        "rating": 4,
+        "comment": "I'm happy with it."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Terrible experience."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "Does the job."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Does the job."
+      }
+    ],
+    "category": "cosmetics",
+    "subcategory": "moisturizers",
+    "image": "",
+    "explanation": "Moisturizers Product 1 is a Blue Moisturizers from Brand 1, size M, weighing 3.45 kg. It has a rating of 1.4 out of 5, is priced at 530.71, and currently 95 units are in stock.",
+    "slug": "moisturizers-product-1"
+  },
+  {
+    "id": "MOI_2",
+    "name": "Moisturizers Product 2",
+    "price": 136.42,
+    "stock": 46,
+    "rating": 4.2,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "4.84 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Not satisfied at all."
+      },
+      {
+        "username": "user2",
+        "rating": 5,
+        "comment": "Absolutely love it."
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "Nothing special."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Average quality."
+      }
+    ],
+    "category": "cosmetics",
+    "subcategory": "moisturizers",
+    "image": "",
+    "explanation": "Moisturizers Product 2 is a Black Moisturizers from Brand 2, size L, weighing 4.84 kg. It has a rating of 4.2 out of 5, is priced at 136.42, and currently 46 units are in stock.",
+    "slug": "moisturizers-product-2"
+  },
+  {
+    "id": "MOI_3",
+    "name": "Moisturizers Product 3",
+    "price": 186.29,
+    "stock": 47,
+    "rating": 1.9,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "5.92 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "Below average."
+      },
+      {
+        "username": "user4",
+        "rating": 4,
+        "comment": "Would buy again."
+      },
+      {
+        "username": "user5",
+        "rating": 4,
+        "comment": "Worth the price."
+      }
+    ],
+    "category": "cosmetics",
+    "subcategory": "moisturizers",
+    "image": "",
+    "explanation": "Moisturizers Product 3 is a Green Moisturizers from Brand 3, size XL, weighing 5.92 kg. It has a rating of 1.9 out of 5, is priced at 186.29, and currently 47 units are in stock.",
+    "slug": "moisturizers-product-3"
+  },
+  {
+    "id": "SHA_1",
+    "name": "Shampoos Product 1",
+    "price": 530.71,
+    "stock": 95,
+    "rating": 1.4,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "3.45 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user2",
+        "rating": 4,
+        "comment": "Worth the price."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Not satisfied at all."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "It's okay."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Nothing special."
+      }
+    ],
+    "category": "cosmetics",
+    "subcategory": "shampoos",
+    "image": "",
+    "explanation": "Shampoos Product 1 is a Blue Shampoos from Brand 1, size M, weighing 3.45 kg. It has a rating of 1.4 out of 5, is priced at 530.71, and currently 95 units are in stock.",
+    "slug": "shampoos-product-1"
+  },
+  {
+    "id": "SHA_2",
+    "name": "Shampoos Product 2",
+    "price": 136.42,
+    "stock": 46,
+    "rating": 4.2,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "4.84 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Terrible experience."
+      },
+      {
+        "username": "user2",
+        "rating": 5,
+        "comment": "Excellent quality!"
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "Does the job."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "It's okay."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Nothing special."
+      }
+    ],
+    "category": "cosmetics",
+    "subcategory": "shampoos",
+    "image": "",
+    "explanation": "Shampoos Product 2 is a Black Shampoos from Brand 2, size L, weighing 4.84 kg. It has a rating of 4.2 out of 5, is priced at 136.42, and currently 46 units are in stock.",
+    "slug": "shampoos-product-2"
+  },
+  {
+    "id": "SHA_3",
+    "name": "Shampoos Product 3",
+    "price": 186.29,
+    "stock": 47,
+    "rating": 1.9,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "5.92 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Terrible experience."
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user4",
+        "rating": 4,
+        "comment": "Would buy again."
+      },
+      {
+        "username": "user5",
+        "rating": 4,
+        "comment": "Would buy again."
+      }
+    ],
+    "category": "cosmetics",
+    "subcategory": "shampoos",
+    "image": "",
+    "explanation": "Shampoos Product 3 is a Green Shampoos from Brand 3, size XL, weighing 5.92 kg. It has a rating of 1.9 out of 5, is priced at 186.29, and currently 47 units are in stock.",
+    "slug": "shampoos-product-3"
+  },
+  {
+    "id": "SNE_1",
+    "name": "Sneakers Product 1",
+    "price": 503.82,
+    "stock": 80,
+    "rating": 2.6,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "5.37 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user2",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      },
+      {
+        "username": "user3",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      }
+    ],
+    "category": "shoe-bag",
+    "subcategory": "sneakers",
+    "image": "",
+    "explanation": "Sneakers Product 1 is a Blue Sneakers from Brand 1, size M, weighing 5.37 kg. It has a rating of 2.6 out of 5, is priced at 503.82, and currently 80 units are in stock.",
+    "slug": "sneakers-product-1"
+  },
+  {
+    "id": "SNE_2",
+    "name": "Sneakers Product 2",
+    "price": 872.94,
+    "stock": 31,
+    "rating": 4.2,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "4.44 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Absolutely love it."
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user3",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Below average."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Would not recommend."
+      }
+    ],
+    "category": "shoe-bag",
+    "subcategory": "sneakers",
+    "image": "",
+    "explanation": "Sneakers Product 2 is a Black Sneakers from Brand 2, size L, weighing 4.44 kg. It has a rating of 4.2 out of 5, is priced at 872.94, and currently 31 units are in stock.",
+    "slug": "sneakers-product-2"
+  },
+  {
+    "id": "SNE_3",
+    "name": "Sneakers Product 3",
+    "price": 608.09,
+    "stock": 47,
+    "rating": 3.9,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "1.92 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Excellent quality!"
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      },
+      {
+        "username": "user3",
+        "rating": 4,
+        "comment": "Would buy again."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      },
+      {
+        "username": "user5",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      }
+    ],
+    "category": "shoe-bag",
+    "subcategory": "sneakers",
+    "image": "",
+    "explanation": "Sneakers Product 3 is a Green Sneakers from Brand 3, size XL, weighing 1.92 kg. It has a rating of 3.9 out of 5, is priced at 608.09, and currently 47 units are in stock.",
+    "slug": "sneakers-product-3"
+  },
+  {
+    "id": "HEE_1",
+    "name": "Heels Product 1",
+    "price": 503.82,
+    "stock": 80,
+    "rating": 2.6,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "5.37 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Terrible experience."
+      },
+      {
+        "username": "user2",
+        "rating": 5,
+        "comment": "Excellent quality!"
+      },
+      {
+        "username": "user3",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Would not recommend."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Would not recommend."
+      }
+    ],
+    "category": "shoe-bag",
+    "subcategory": "heels",
+    "image": "",
+    "explanation": "Heels Product 1 is a Blue Heels from Brand 1, size M, weighing 5.37 kg. It has a rating of 2.6 out of 5, is priced at 503.82, and currently 80 units are in stock.",
+    "slug": "heels-product-1"
+  },
+  {
+    "id": "HEE_2",
+    "name": "Heels Product 2",
+    "price": 872.94,
+    "stock": 31,
+    "rating": 4.2,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "4.44 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "Needs improvement."
+      },
+      {
+        "username": "user3",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Needs improvement."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Would not recommend."
+      }
+    ],
+    "category": "shoe-bag",
+    "subcategory": "heels",
+    "image": "",
+    "explanation": "Heels Product 2 is a Black Heels from Brand 2, size L, weighing 4.44 kg. It has a rating of 4.2 out of 5, is priced at 872.94, and currently 31 units are in stock.",
+    "slug": "heels-product-2"
+  },
+  {
+    "id": "HEE_3",
+    "name": "Heels Product 3",
+    "price": 608.09,
+    "stock": 47,
+    "rating": 3.9,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "1.92 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Absolutely love it."
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      },
+      {
+        "username": "user3",
+        "rating": 4,
+        "comment": "Good product."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "Average quality."
+      },
+      {
+        "username": "user5",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      }
+    ],
+    "category": "shoe-bag",
+    "subcategory": "heels",
+    "image": "",
+    "explanation": "Heels Product 3 is a Green Heels from Brand 3, size XL, weighing 1.92 kg. It has a rating of 3.9 out of 5, is priced at 608.09, and currently 47 units are in stock.",
+    "slug": "heels-product-3"
+  },
+  {
+    "id": "SAN_1",
+    "name": "Sandals Product 1",
+    "price": 503.82,
+    "stock": 80,
+    "rating": 2.6,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "5.37 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user2",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      },
+      {
+        "username": "user3",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Not satisfied at all."
+      }
+    ],
+    "category": "shoe-bag",
+    "subcategory": "sandals",
+    "image": "",
+    "explanation": "Sandals Product 1 is a Blue Sandals from Brand 1, size M, weighing 5.37 kg. It has a rating of 2.6 out of 5, is priced at 503.82, and currently 80 units are in stock.",
+    "slug": "sandals-product-1"
+  },
+  {
+    "id": "SAN_2",
+    "name": "Sandals Product 2",
+    "price": 872.94,
+    "stock": 31,
+    "rating": 4.2,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "4.44 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Excellent quality!"
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "Needs improvement."
+      },
+      {
+        "username": "user3",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Very poor quality."
+      }
+    ],
+    "category": "shoe-bag",
+    "subcategory": "sandals",
+    "image": "",
+    "explanation": "Sandals Product 2 is a Black Sandals from Brand 2, size L, weighing 4.44 kg. It has a rating of 4.2 out of 5, is priced at 872.94, and currently 31 units are in stock.",
+    "slug": "sandals-product-2"
+  },
+  {
+    "id": "SAN_3",
+    "name": "Sandals Product 3",
+    "price": 608.09,
+    "stock": 47,
+    "rating": 3.9,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "1.92 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "It's okay."
+      },
+      {
+        "username": "user3",
+        "rating": 4,
+        "comment": "Good product."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      },
+      {
+        "username": "user5",
+        "rating": 5,
+        "comment": "Absolutely love it."
+      }
+    ],
+    "category": "shoe-bag",
+    "subcategory": "sandals",
+    "image": "",
+    "explanation": "Sandals Product 3 is a Green Sandals from Brand 3, size XL, weighing 1.92 kg. It has a rating of 3.9 out of 5, is priced at 608.09, and currently 47 units are in stock.",
+    "slug": "sandals-product-3"
+  },
+  {
+    "id": "BAC_1",
+    "name": "Backpacks Product 1",
+    "price": 876.06,
+    "stock": 69,
+    "rating": 3.5,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "3.96 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 4,
+        "comment": "Good product."
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Average quality."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "Nothing special."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      }
+    ],
+    "category": "shoe-bag",
+    "subcategory": "backpacks",
+    "image": "",
+    "explanation": "Backpacks Product 1 is a Blue Backpacks from Brand 1, size M, weighing 3.96 kg. It has a rating of 3.5 out of 5, is priced at 876.06, and currently 69 units are in stock.",
+    "slug": "backpacks-product-1"
+  },
+  {
+    "id": "BAC_2",
+    "name": "Backpacks Product 2",
+    "price": 777.57,
+    "stock": 80,
+    "rating": 2.4,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "1.33 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Excellent quality!"
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "Below average."
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "It's okay."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "It's okay."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Would not recommend."
+      }
+    ],
+    "category": "shoe-bag",
+    "subcategory": "backpacks",
+    "image": "",
+    "explanation": "Backpacks Product 2 is a Black Backpacks from Brand 2, size L, weighing 1.33 kg. It has a rating of 2.4 out of 5, is priced at 777.57, and currently 80 units are in stock.",
+    "slug": "backpacks-product-2"
+  },
+  {
+    "id": "BAC_3",
+    "name": "Backpacks Product 3",
+    "price": 914.52,
+    "stock": 27,
+    "rating": 2.5,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "2.5 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Terrible experience."
+      },
+      {
+        "username": "user5",
+        "rating": 4,
+        "comment": "Worth the price."
+      }
+    ],
+    "category": "shoe-bag",
+    "subcategory": "backpacks",
+    "image": "",
+    "explanation": "Backpacks Product 3 is a Green Backpacks from Brand 3, size XL, weighing 2.5 kg. It has a rating of 2.5 out of 5, is priced at 914.52, and currently 27 units are in stock.",
+    "slug": "backpacks-product-3"
+  },
+  {
+    "id": "HAN_1",
+    "name": "Handbags Product 1",
+    "price": 876.06,
+    "stock": 69,
+    "rating": 3.5,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "3.96 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 4,
+        "comment": "Worth the price."
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "It's okay."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Not satisfied at all."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "It's okay."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Not satisfied at all."
+      }
+    ],
+    "category": "shoe-bag",
+    "subcategory": "handbags",
+    "image": "",
+    "explanation": "Handbags Product 1 is a Blue Handbags from Brand 1, size M, weighing 3.96 kg. It has a rating of 3.5 out of 5, is priced at 876.06, and currently 69 units are in stock.",
+    "slug": "handbags-product-1"
+  },
+  {
+    "id": "HAN_2",
+    "name": "Handbags Product 2",
+    "price": 777.57,
+    "stock": 80,
+    "rating": 2.4,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "1.33 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Absolutely love it."
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "Needs improvement."
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "Does the job."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "Average quality."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Would not recommend."
+      }
+    ],
+    "category": "shoe-bag",
+    "subcategory": "handbags",
+    "image": "",
+    "explanation": "Handbags Product 2 is a Black Handbags from Brand 2, size L, weighing 1.33 kg. It has a rating of 2.4 out of 5, is priced at 777.57, and currently 80 units are in stock.",
+    "slug": "handbags-product-2"
+  },
+  {
+    "id": "HAN_3",
+    "name": "Handbags Product 3",
+    "price": 914.52,
+    "stock": 27,
+    "rating": 2.5,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "2.5 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Not satisfied at all."
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Average quality."
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "Needs improvement."
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Very poor quality."
+      },
+      {
+        "username": "user5",
+        "rating": 4,
+        "comment": "Good product."
+      }
+    ],
+    "category": "shoe-bag",
+    "subcategory": "handbags",
+    "image": "",
+    "explanation": "Handbags Product 3 is a Green Handbags from Brand 3, size XL, weighing 2.5 kg. It has a rating of 2.5 out of 5, is priced at 914.52, and currently 27 units are in stock.",
+    "slug": "handbags-product-3"
+  },
+  {
+    "id": "FIT_1",
+    "name": "Fitness Equipment Product 1",
+    "price": 676.28,
+    "stock": 24,
+    "rating": 5.0,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "4.5 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Does the job."
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "Below average."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Below average."
+      },
+      {
+        "username": "user5",
+        "rating": 4,
+        "comment": "Would buy again."
+      }
+    ],
+    "category": "sport-outdoor",
+    "subcategory": "fitness-equipment",
+    "image": "",
+    "explanation": "Fitness Equipment Product 1 is a Blue Fitness Equipment from Brand 1, size M, weighing 4.5 kg. It has a rating of 5.0 out of 5, is priced at 676.28, and currently 24 units are in stock.",
+    "slug": "fitness-equipment-product-1"
+  },
+  {
+    "id": "FIT_2",
+    "name": "Fitness Equipment Product 2",
+    "price": 301.34,
+    "stock": 37,
+    "rating": 1.9,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "6.05 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 3,
+        "comment": "Nothing special."
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Does the job."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Not satisfied at all."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      }
+    ],
+    "category": "sport-outdoor",
+    "subcategory": "fitness-equipment",
+    "image": "",
+    "explanation": "Fitness Equipment Product 2 is a Black Fitness Equipment from Brand 2, size L, weighing 6.05 kg. It has a rating of 1.9 out of 5, is priced at 301.34, and currently 37 units are in stock.",
+    "slug": "fitness-equipment-product-2"
+  },
+  {
+    "id": "FIT_3",
+    "name": "Fitness Equipment Product 3",
+    "price": 946.17,
+    "stock": 90,
+    "rating": 2.4,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "7.86 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Excellent quality!"
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Nothing special."
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user4",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      }
+    ],
+    "category": "sport-outdoor",
+    "subcategory": "fitness-equipment",
+    "image": "",
+    "explanation": "Fitness Equipment Product 3 is a Green Fitness Equipment from Brand 3, size XL, weighing 7.86 kg. It has a rating of 2.4 out of 5, is priced at 946.17, and currently 90 units are in stock.",
+    "slug": "fitness-equipment-product-3"
+  },
+  {
+    "id": "CAM_1",
+    "name": "Camping Gear Product 1",
+    "price": 595.18,
+    "stock": 38,
+    "rating": 1.2,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "4.39 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 3,
+        "comment": "It's okay."
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "Average quality."
+      },
+      {
+        "username": "user4",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      },
+      {
+        "username": "user5",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      }
+    ],
+    "category": "sport-outdoor",
+    "subcategory": "camping-gear",
+    "image": "",
+    "explanation": "Camping Gear Product 1 is a Blue Camping Gear from Brand 1, size M, weighing 4.39 kg. It has a rating of 1.2 out of 5, is priced at 595.18, and currently 38 units are in stock.",
+    "slug": "camping-gear-product-1"
+  },
+  {
+    "id": "CAM_2",
+    "name": "Camping Gear Product 2",
+    "price": 715.07,
+    "stock": 62,
+    "rating": 2.2,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "7.98 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Would not recommend."
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "It's okay."
+      },
+      {
+        "username": "user3",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Not what I expected."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Does the job."
+      }
+    ],
+    "category": "sport-outdoor",
+    "subcategory": "camping-gear",
+    "image": "",
+    "explanation": "Camping Gear Product 2 is a Black Camping Gear from Brand 2, size L, weighing 7.98 kg. It has a rating of 2.2 out of 5, is priced at 715.07, and currently 62 units are in stock.",
+    "slug": "camping-gear-product-2"
+  },
+  {
+    "id": "CAM_3",
+    "name": "Camping Gear Product 3",
+    "price": 508.4,
+    "stock": 60,
+    "rating": 4.6,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "1.5 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Average quality."
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "Not what I expected."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user5",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      }
+    ],
+    "category": "sport-outdoor",
+    "subcategory": "camping-gear",
+    "image": "",
+    "explanation": "Camping Gear Product 3 is a Green Camping Gear from Brand 3, size XL, weighing 1.5 kg. It has a rating of 4.6 out of 5, is priced at 508.4, and currently 60 units are in stock.",
+    "slug": "camping-gear-product-3"
+  },
+  {
+    "id": "SPO_1",
+    "name": "Sportswear Product 1",
+    "price": 966.23,
+    "stock": 19,
+    "rating": 4.0,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "7.07 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "Needs improvement."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Terrible experience."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Needs improvement."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Average quality."
+      }
+    ],
+    "category": "sport-outdoor",
+    "subcategory": "sportswear",
+    "image": "",
+    "explanation": "Sportswear Product 1 is a Blue Sportswear from Brand 1, size M, weighing 7.07 kg. It has a rating of 4.0 out of 5, is priced at 966.23, and currently 19 units are in stock.",
+    "slug": "sportswear-product-1"
+  },
+  {
+    "id": "SPO_2",
+    "name": "Sportswear Product 2",
+    "price": 442.55,
+    "stock": 51,
+    "rating": 1.1,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "4.5 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Absolutely love it."
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "It's okay."
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "Needs improvement."
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Would not recommend."
+      },
+      {
+        "username": "user5",
+        "rating": 2,
+        "comment": "Below average."
+      }
+    ],
+    "category": "sport-outdoor",
+    "subcategory": "sportswear",
+    "image": "",
+    "explanation": "Sportswear Product 2 is a Black Sportswear from Brand 2, size L, weighing 4.5 kg. It has a rating of 1.1 out of 5, is priced at 442.55, and currently 51 units are in stock.",
+    "slug": "sportswear-product-2"
+  },
+  {
+    "id": "SPO_3",
+    "name": "Sportswear Product 3",
+    "price": 867.0,
+    "stock": 110,
+    "rating": 2.2,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "1.98 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Very poor quality."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Not satisfied at all."
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Not what I expected."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      }
+    ],
+    "category": "sport-outdoor",
+    "subcategory": "sportswear",
+    "image": "",
+    "explanation": "Sportswear Product 3 is a Green Sportswear from Brand 3, size XL, weighing 1.98 kg. It has a rating of 2.2 out of 5, is priced at 867.0, and currently 110 units are in stock.",
+    "slug": "sportswear-product-3"
+  },
+  {
+    "id": "BIC_1",
+    "name": "Bicycles Product 1",
+    "price": 726.9,
+    "stock": 113,
+    "rating": 4.0,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "0.89 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 2,
+        "comment": "Below average."
+      },
+      {
+        "username": "user2",
+        "rating": 4,
+        "comment": "Quite satisfied."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user4",
+        "rating": 4,
+        "comment": "Worth the price."
+      },
+      {
+        "username": "user5",
+        "rating": 4,
+        "comment": "I'm happy with it."
+      }
+    ],
+    "category": "sport-outdoor",
+    "subcategory": "bicycles",
+    "image": "",
+    "explanation": "Bicycles Product 1 is a Blue Bicycles from Brand 1, size M, weighing 0.89 kg. It has a rating of 4.0 out of 5, is priced at 726.9, and currently 113 units are in stock.",
+    "slug": "bicycles-product-1"
+  },
+  {
+    "id": "BIC_2",
+    "name": "Bicycles Product 2",
+    "price": 493.8,
+    "stock": 70,
+    "rating": 3.3,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "7.49 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 4,
+        "comment": "Worth the price."
+      },
+      {
+        "username": "user2",
+        "rating": 4,
+        "comment": "Good product."
+      },
+      {
+        "username": "user3",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      },
+      {
+        "username": "user4",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Terrible experience."
+      }
+    ],
+    "category": "sport-outdoor",
+    "subcategory": "bicycles",
+    "image": "",
+    "explanation": "Bicycles Product 2 is a Black Bicycles from Brand 2, size L, weighing 7.49 kg. It has a rating of 3.3 out of 5, is priced at 493.8, and currently 70 units are in stock.",
+    "slug": "bicycles-product-2"
+  },
+  {
+    "id": "BIC_3",
+    "name": "Bicycles Product 3",
+    "price": 744.95,
+    "stock": 73,
+    "rating": 3.8,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "3.86 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 3,
+        "comment": "Average quality."
+      },
+      {
+        "username": "user2",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      },
+      {
+        "username": "user4",
+        "rating": 4,
+        "comment": "Worth the price."
+      },
+      {
+        "username": "user5",
+        "rating": 5,
+        "comment": "Excellent quality!"
+      }
+    ],
+    "category": "sport-outdoor",
+    "subcategory": "bicycles",
+    "image": "",
+    "explanation": "Bicycles Product 3 is a Green Bicycles from Brand 3, size XL, weighing 3.86 kg. It has a rating of 3.8 out of 5, is priced at 744.95, and currently 73 units are in stock.",
+    "slug": "bicycles-product-3"
+  },
+  {
+    "id": "FOO_1",
+    "name": "Footwear Product 1",
+    "price": 503.82,
+    "stock": 80,
+    "rating": 2.6,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "5.37 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Terrible experience."
+      },
+      {
+        "username": "user2",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      },
+      {
+        "username": "user3",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Would not recommend."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Very poor quality."
+      }
+    ],
+    "category": "sport-outdoor",
+    "subcategory": "footwear",
+    "image": "",
+    "explanation": "Footwear Product 1 is a Blue Footwear from Brand 1, size M, weighing 5.37 kg. It has a rating of 2.6 out of 5, is priced at 503.82, and currently 80 units are in stock.",
+    "slug": "footwear-product-1"
+  },
+  {
+    "id": "FOO_2",
+    "name": "Footwear Product 2",
+    "price": 872.94,
+    "stock": 31,
+    "rating": 4.2,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "4.44 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user3",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Below average."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Very poor quality."
+      }
+    ],
+    "category": "sport-outdoor",
+    "subcategory": "footwear",
+    "image": "",
+    "explanation": "Footwear Product 2 is a Black Footwear from Brand 2, size L, weighing 4.44 kg. It has a rating of 4.2 out of 5, is priced at 872.94, and currently 31 units are in stock.",
+    "slug": "footwear-product-2"
+  },
+  {
+    "id": "FOO_3",
+    "name": "Footwear Product 3",
+    "price": 608.09,
+    "stock": 47,
+    "rating": 3.9,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "1.92 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "It's okay."
+      },
+      {
+        "username": "user3",
+        "rating": 4,
+        "comment": "Worth the price."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "Nothing special."
+      },
+      {
+        "username": "user5",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      }
+    ],
+    "category": "sport-outdoor",
+    "subcategory": "footwear",
+    "image": "",
+    "explanation": "Footwear Product 3 is a Green Footwear from Brand 3, size XL, weighing 1.92 kg. It has a rating of 3.9 out of 5, is priced at 608.09, and currently 47 units are in stock.",
+    "slug": "footwear-product-3"
+  },
+  {
+    "id": "TRE_1",
+    "name": "Trending Clothes Product 1",
+    "price": 966.23,
+    "stock": 19,
+    "rating": 4.0,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "7.07 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "Not what I expected."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Needs improvement."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Average quality."
+      }
+    ],
+    "category": "best-seller",
+    "subcategory": "trending-clothes",
+    "image": "",
+    "explanation": "Trending Clothes Product 1 is a Blue Trending Clothes from Brand 1, size M, weighing 7.07 kg. It has a rating of 4.0 out of 5, is priced at 966.23, and currently 19 units are in stock.",
+    "slug": "trending-clothes-product-1"
+  },
+  {
+    "id": "TRE_2",
+    "name": "Trending Clothes Product 2",
+    "price": 442.55,
+    "stock": 51,
+    "rating": 1.1,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "4.5 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Absolutely love it."
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "Needs improvement."
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Terrible experience."
+      },
+      {
+        "username": "user5",
+        "rating": 2,
+        "comment": "Needs improvement."
+      }
+    ],
+    "category": "best-seller",
+    "subcategory": "trending-clothes",
+    "image": "",
+    "explanation": "Trending Clothes Product 2 is a Black Trending Clothes from Brand 2, size L, weighing 4.5 kg. It has a rating of 1.1 out of 5, is priced at 442.55, and currently 51 units are in stock.",
+    "slug": "trending-clothes-product-2"
+  },
+  {
+    "id": "TRE_3",
+    "name": "Trending Clothes Product 3",
+    "price": 867.0,
+    "stock": 110,
+    "rating": 2.2,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "1.98 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Terrible experience."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Terrible experience."
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "Does the job."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Needs improvement."
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Nothing special."
+      }
+    ],
+    "category": "best-seller",
+    "subcategory": "trending-clothes",
+    "image": "",
+    "explanation": "Trending Clothes Product 3 is a Green Trending Clothes from Brand 3, size XL, weighing 1.98 kg. It has a rating of 2.2 out of 5, is priced at 867.0, and currently 110 units are in stock.",
+    "slug": "trending-clothes-product-3"
+  },
+  {
+    "id": "HOT_1",
+    "name": "Hot Gadgets Product 1",
+    "price": 320.77,
+    "stock": 79,
+    "rating": 1.9,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "0.27 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 4,
+        "comment": "Would buy again."
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user4",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user5",
+        "rating": 2,
+        "comment": "Needs improvement."
+      }
+    ],
+    "category": "best-seller",
+    "subcategory": "hot-gadgets",
+    "image": "",
+    "explanation": "Hot Gadgets Product 1 is a Blue Hot Gadgets from Brand 1, size M, weighing 0.27 kg. It has a rating of 1.9 out of 5, is priced at 320.77, and currently 79 units are in stock.",
+    "slug": "hot-gadgets-product-1"
+  },
+  {
+    "id": "HOT_2",
+    "name": "Hot Gadgets Product 2",
+    "price": 56.62,
+    "stock": 26,
+    "rating": 3.0,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "5.38 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 2,
+        "comment": "Below average."
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "Needs improvement."
+      },
+      {
+        "username": "user3",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user4",
+        "rating": 4,
+        "comment": "Would buy again."
+      },
+      {
+        "username": "user5",
+        "rating": 5,
+        "comment": "Absolutely love it."
+      }
+    ],
+    "category": "best-seller",
+    "subcategory": "hot-gadgets",
+    "image": "",
+    "explanation": "Hot Gadgets Product 2 is a Black Hot Gadgets from Brand 2, size L, weighing 5.38 kg. It has a rating of 3.0 out of 5, is priced at 56.62, and currently 26 units are in stock.",
+    "slug": "hot-gadgets-product-2"
+  },
+  {
+    "id": "HOT_3",
+    "name": "Hot Gadgets Product 3",
+    "price": 298.86,
+    "stock": 16,
+    "rating": 4.4,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "1.89 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 4,
+        "comment": "I'm happy with it."
+      },
+      {
+        "username": "user2",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "Does the job."
+      },
+      {
+        "username": "user4",
+        "rating": 4,
+        "comment": "Would buy again."
+      },
+      {
+        "username": "user5",
+        "rating": 2,
+        "comment": "Below average."
+      }
+    ],
+    "category": "best-seller",
+    "subcategory": "hot-gadgets",
+    "image": "",
+    "explanation": "Hot Gadgets Product 3 is a Green Hot Gadgets from Brand 3, size XL, weighing 1.89 kg. It has a rating of 4.4 out of 5, is priced at 298.86, and currently 16 units are in stock.",
+    "slug": "hot-gadgets-product-3"
+  },
+  {
+    "id": "TOP_1",
+    "name": "Top Shoes Product 1",
+    "price": 503.82,
+    "stock": 80,
+    "rating": 2.6,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "5.37 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Would not recommend."
+      },
+      {
+        "username": "user2",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user3",
+        "rating": 5,
+        "comment": "Excellent quality!"
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Terrible experience."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Would not recommend."
+      }
+    ],
+    "category": "best-seller",
+    "subcategory": "top-shoes",
+    "image": "",
+    "explanation": "Top Shoes Product 1 is a Blue Top Shoes from Brand 1, size M, weighing 5.37 kg. It has a rating of 2.6 out of 5, is priced at 503.82, and currently 80 units are in stock.",
+    "slug": "top-shoes-product-1"
+  },
+  {
+    "id": "TOP_2",
+    "name": "Top Shoes Product 2",
+    "price": 872.94,
+    "stock": 31,
+    "rating": 4.2,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "4.44 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "Needs improvement."
+      },
+      {
+        "username": "user3",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Not what I expected."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Would not recommend."
+      }
+    ],
+    "category": "best-seller",
+    "subcategory": "top-shoes",
+    "image": "",
+    "explanation": "Top Shoes Product 2 is a Black Top Shoes from Brand 2, size L, weighing 4.44 kg. It has a rating of 4.2 out of 5, is priced at 872.94, and currently 31 units are in stock.",
+    "slug": "top-shoes-product-2"
+  },
+  {
+    "id": "TOP_3",
+    "name": "Top Shoes Product 3",
+    "price": 608.09,
+    "stock": 47,
+    "rating": 3.9,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "1.92 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Nothing special."
+      },
+      {
+        "username": "user3",
+        "rating": 4,
+        "comment": "Worth the price."
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "Average quality."
+      },
+      {
+        "username": "user5",
+        "rating": 5,
+        "comment": "Excellent quality!"
+      }
+    ],
+    "category": "best-seller",
+    "subcategory": "top-shoes",
+    "image": "",
+    "explanation": "Top Shoes Product 3 is a Green Top Shoes from Brand 3, size XL, weighing 1.92 kg. It has a rating of 3.9 out of 5, is priced at 608.09, and currently 47 units are in stock.",
+    "slug": "top-shoes-product-3"
+  },
+  {
+    "id": "BES_1",
+    "name": "Bestselling Books Product 1",
+    "price": 299.67,
+    "stock": 86,
+    "rating": 4.4,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "1.35 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Not satisfied at all."
+      },
+      {
+        "username": "user2",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Not satisfied at all."
+      },
+      {
+        "username": "user4",
+        "rating": 5,
+        "comment": "Fantastic product!"
+      },
+      {
+        "username": "user5",
+        "rating": 4,
+        "comment": "Good product."
+      }
+    ],
+    "category": "best-seller",
+    "subcategory": "bestselling-books",
+    "image": "",
+    "explanation": "Bestselling Books Product 1 is a Blue Bestselling Books from Brand 1, size M, weighing 1.35 kg. It has a rating of 4.4 out of 5, is priced at 299.67, and currently 86 units are in stock.",
+    "slug": "bestselling-books-product-1"
+  },
+  {
+    "id": "BES_2",
+    "name": "Bestselling Books Product 2",
+    "price": 662.87,
+    "stock": 25,
+    "rating": 2.1,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "2.75 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 2,
+        "comment": "A bit disappointing."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Not satisfied at all."
+      },
+      {
+        "username": "user3",
+        "rating": 4,
+        "comment": "Would buy again."
+      },
+      {
+        "username": "user4",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user5",
+        "rating": 3,
+        "comment": "Does the job."
+      }
+    ],
+    "category": "best-seller",
+    "subcategory": "bestselling-books",
+    "image": "",
+    "explanation": "Bestselling Books Product 2 is a Black Bestselling Books from Brand 2, size L, weighing 2.75 kg. It has a rating of 2.1 out of 5, is priced at 662.87, and currently 25 units are in stock.",
+    "slug": "bestselling-books-product-2"
+  },
+  {
+    "id": "BES_3",
+    "name": "Bestselling Books Product 3",
+    "price": 74.65,
+    "stock": 118,
+    "rating": 1.7,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "5.64 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 2,
+        "comment": "Needs improvement."
+      },
+      {
+        "username": "user2",
+        "rating": 4,
+        "comment": "Would buy again."
+      },
+      {
+        "username": "user3",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "user4",
+        "rating": 3,
+        "comment": "Neutral feelings."
+      },
+      {
+        "username": "user5",
+        "rating": 4,
+        "comment": "Quite satisfied."
+      }
+    ],
+    "category": "best-seller",
+    "subcategory": "bestselling-books",
+    "image": "",
+    "explanation": "Bestselling Books Product 3 is a Green Bestselling Books from Brand 3, size XL, weighing 5.64 kg. It has a rating of 1.7 out of 5, is priced at 74.65, and currently 118 units are in stock.",
+    "slug": "bestselling-books-product-3"
+  },
+  {
+    "id": "POP_1",
+    "name": "Popular Cosmetics Product 1",
+    "price": 921.22,
+    "stock": 13,
+    "rating": 2.4,
+    "details": {
+      "brand": "Brand 1",
+      "color": "Blue",
+      "size": "M",
+      "weight": "4.0 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Would not recommend."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Disappointed with this product."
+      },
+      {
+        "username": "user3",
+        "rating": 3,
+        "comment": "It's okay."
+      },
+      {
+        "username": "user4",
+        "rating": 5,
+        "comment": "Exceeded expectations."
+      },
+      {
+        "username": "user5",
+        "rating": 1,
+        "comment": "Terrible experience."
+      }
+    ],
+    "category": "best-seller",
+    "subcategory": "popular-cosmetics",
+    "image": "",
+    "explanation": "Popular Cosmetics Product 1 is a Blue Popular Cosmetics from Brand 1, size M, weighing 4.0 kg. It has a rating of 2.4 out of 5, is priced at 921.22, and currently 13 units are in stock.",
+    "slug": "popular-cosmetics-product-1"
+  },
+  {
+    "id": "POP_2",
+    "name": "Popular Cosmetics Product 2",
+    "price": 312.09,
+    "stock": 116,
+    "rating": 2.6,
+    "details": {
+      "brand": "Brand 2",
+      "color": "Black",
+      "size": "L",
+      "weight": "7.06 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 1,
+        "comment": "Would not recommend."
+      },
+      {
+        "username": "user2",
+        "rating": 3,
+        "comment": "Does the job."
+      },
+      {
+        "username": "user3",
+        "rating": 4,
+        "comment": "Worth the price."
+      },
+      {
+        "username": "user4",
+        "rating": 1,
+        "comment": "Would not recommend."
+      },
+      {
+        "username": "user5",
+        "rating": 4,
+        "comment": "Would buy again."
+      }
+    ],
+    "category": "best-seller",
+    "subcategory": "popular-cosmetics",
+    "image": "",
+    "explanation": "Popular Cosmetics Product 2 is a Black Popular Cosmetics from Brand 2, size L, weighing 7.06 kg. It has a rating of 2.6 out of 5, is priced at 312.09, and currently 116 units are in stock.",
+    "slug": "popular-cosmetics-product-2"
+  },
+  {
+    "id": "POP_3",
+    "name": "Popular Cosmetics Product 3",
+    "price": 720.03,
+    "stock": 42,
+    "rating": 4.4,
+    "details": {
+      "brand": "Brand 3",
+      "color": "Green",
+      "size": "XL",
+      "weight": "1.9 kg"
+    },
+    "reviews": [
+      {
+        "username": "user1",
+        "rating": 4,
+        "comment": "Quite satisfied."
+      },
+      {
+        "username": "user2",
+        "rating": 1,
+        "comment": "Would not recommend."
+      },
+      {
+        "username": "user3",
+        "rating": 1,
+        "comment": "Would not recommend."
+      },
+      {
+        "username": "user4",
+        "rating": 2,
+        "comment": "Could be better."
+      },
+      {
+        "username": "user5",
+        "rating": 5,
+        "comment": "Highly recommended!"
+      }
+    ],
+    "category": "best-seller",
+    "subcategory": "popular-cosmetics",
+    "image": "",
+    "explanation": "Popular Cosmetics Product 3 is a Green Popular Cosmetics from Brand 3, size XL, weighing 1.9 kg. It has a rating of 4.4 out of 5, is priced at 720.03, and currently 42 units are in stock.",
+    "slug": "popular-cosmetics-product-3"
+  }
+]

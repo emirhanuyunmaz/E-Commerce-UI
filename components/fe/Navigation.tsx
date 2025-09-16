@@ -59,27 +59,27 @@ const womanComponents : { title: string; href: string; description: string }[] =
 const manComponents : { title: string; href: string; description: string }[] =[
     {
         title:"Shirts",
-        href:"/products/man/shirts",
+        href:"/products/male/shirts",
         description:""
     },
     {
         title:"T-Shirts",
-        href:"/products/man/t-shirts",
+        href:"/products/male/t-shirts",
         description:""
     },
     {
         title:"Jeans",
-        href:"/products/man/jeans",
+        href:"/products/male/jeans",
         description:""
     },
     {
         title:"Suits",
-        href:"/products/man/suits",
+        href:"/products/male/suits",
         description:""
     },
     {
         title:"Jackets",
-        href:"/products/man/jackets",
+        href:"/products/male/jackets",
         description:""
     },
 
