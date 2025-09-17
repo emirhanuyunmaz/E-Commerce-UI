@@ -6,7 +6,7 @@ import { Textarea } from "@/components/ui/textarea";
 export default function Page(){
     return(<div className="max-w-7xl min-h-[70vh] mx-auto my-10">
         <div className="flex ">
-            <div className="w-1/2">
+            <div className="w-full lg:w-1/2">
                 <h2 className="text-2xl text-secondary font-bold text-center">Tell Us About Your</h2>
                 <div className="flex flex-col gap-3 p-5">
 
@@ -32,7 +32,7 @@ export default function Page(){
                 </div>
             </div>
 
-            <div className="w-1/2 h-full">
+            <div className="hidden lg:flex lg:w-1/2 h-full">
                 <img src="/images/contact.png" alt="" className="w-full h-full" />
             </div>
         </div>

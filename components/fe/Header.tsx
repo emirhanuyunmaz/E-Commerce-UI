@@ -14,7 +14,8 @@ export default function Header(){
 
     function goToSearch(){
         console.log("SSA:",category);
-        
+        setCategory("")
+        setSearch("")
         router.push(`/products?search=${search}&category=${category}`)
     }
 
@@ -22,11 +23,11 @@ export default function Header(){
         <div>
             <Icon/>
         </div>
-        <div className="hidden md:flex border-2 border-grey rounded py-1 px-2">
+        <div className=" flex border-2 border-grey rounded py-1 px-2">
             <input value={search} onChange={(item) => setSearch(item.target.value)} placeholder="Seach Products" className="outline-none border-none"/>
 
-            <select className="outline-none border-none"  value={category} onChange={(select) => setCategory(select.target.value)} >
-                {/* <option value="category" disabled >All Category</option> */}
+            <select className="outline-none border-none" value={category} onChange={(select) => setCategory(select.target.value)} >
+                <option value="category" defaultChecked>All Category</option>
                 <option className="border-none " value={`woman`} >Woman</option>
                 <option className="border-none" value={`male`} >Male</option>
                 <option className="border-none" value={`mother-child`} >Mother-Child</option>
