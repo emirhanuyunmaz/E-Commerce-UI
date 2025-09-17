@@ -4,11 +4,11 @@ export default function Page(){
     return(<div className="min-h-[80vh] max-w-7xl mx-auto my-10">
         <div className="flex gap-3">
 
-            <div className="w-1/2">
+            <div className="hidden md:flex md:w-1/2">
                 <img src="/images/login.png" alt=""  className="w-full h-[80vh]"/>
             </div>
 
-            <div className="w-1/2">
+            <div className="w-full md:w-1/2 mx-3">
                 <SignInAndSignUp/>
             </div>
         </div>

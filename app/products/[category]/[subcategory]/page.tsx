@@ -11,7 +11,7 @@ export default function Page(){
     return(<div className="max-w-7xl mx-auto ">
 
 
-        <div className="flex gap-3 flex-wrap mx-3 lg:mx-0">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-5 mx-3">
             {
                 productData.map((product) => <ProductCard images={product.image} key={product.id} slug={product.slug} name={product.name} price={product.price} rating={product.rating} reviws={product.reviews.length} explanation={product.explanation} />)
             }

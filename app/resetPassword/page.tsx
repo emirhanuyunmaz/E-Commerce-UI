@@ -11,7 +11,7 @@ export default function Page(){
         setSelect(select + 1)
     }
 
-    return(<div className="flex justify-center items-center min-h-[80vh] max-w-7xl mx-auto">
+    return(<div className="flex justify-center items-center min-h-[80vh] max-w-7xl mx-auto px-3">
 
         {select == 0 && <div className="md:w-1/3 flex flex-col gap-3">
             <h3 className="text-xl font-bold text-center">Reset Password</h3>

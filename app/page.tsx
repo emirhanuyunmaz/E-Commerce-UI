@@ -28,7 +28,7 @@ export default function Home() {
         <h3 className="font-bold text-xl">TOP 100</h3>
         
       </div>
-      <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-5">
+      <div className="grid grid-cols-1 px-3 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-5">
         {
           product_10.map((item) => <ProductCard key={item.id} explanation={item.explanation} images={item.image} name={item.name} price={item.price} rating={item.rating} reviws={item.reviews.length} slug={item.slug} />)
         }

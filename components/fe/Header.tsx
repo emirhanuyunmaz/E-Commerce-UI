@@ -5,6 +5,7 @@ import Link from "next/link";
 import { Button } from "../ui/button";
 import { useState } from "react";
 import { useRouter } from "next/navigation";
+import { RightBar } from "./RightBar";
 
 export default function Header(){
     const router = useRouter()
@@ -24,8 +25,8 @@ export default function Header(){
         <div className="hidden md:flex border-2 border-grey rounded py-1 px-2">
             <input value={search} onChange={(item) => setSearch(item.target.value)} placeholder="Seach Products" className="outline-none border-none"/>
 
-            <select className="outline-none border-none" value={category} onChange={(select) => setCategory(select.target.value)} defaultValue={"category"}>
-                <option value="category" disabled >All Category</option>
+            <select className="outline-none border-none"  value={category} onChange={(select) => setCategory(select.target.value)} >
+                {/* <option value="category" disabled >All Category</option> */}
                 <option className="border-none " value={`woman`} >Woman</option>
                 <option className="border-none" value={`male`} >Male</option>
                 <option className="border-none" value={`mother-child`} >Mother-Child</option>
@@ -46,14 +47,16 @@ export default function Header(){
             </ul>
         </div>
 
-        <div>
+        <div className="flex gap-3">
             <Button variant={`outline`} asChild>
                 <Link href={`/signin`}>
                     Sign In
                 </Link>
             </Button>
-
+            <div className="flex lg:hidden">
+                <RightBar/>
+            </div>
         </div>
-
+        
     </header>)
 }
