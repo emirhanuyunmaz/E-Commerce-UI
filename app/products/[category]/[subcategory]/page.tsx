@@ -2,6 +2,12 @@
 import ProductCard from "@/components/fe/ProductCard";
 import data from '../../../../dummy_data.json';
 import { useParams } from "next/navigation";
+// import { Metadata } from "next";
+
+// export const metadata: Metadata = {
+//   title: 'SepetGo | Products',
+//   description: '...',
+// }
 
 export default function Page(){
     const params = useParams<{ category: string; subcategory: string }>()

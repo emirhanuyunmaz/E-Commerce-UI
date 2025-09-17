@@ -2,6 +2,12 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Textarea } from "@/components/ui/textarea";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: 'SepetGo | Contact',
+  description: '...',
+}
 
 export default function Page(){
     return(<div className="max-w-7xl min-h-[70vh] mx-auto my-10">

@@ -1,4 +1,10 @@
 import { Heart } from "lucide-react";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: 'SepetGo | About',
+  description: '...',
+}
 
 export default function Page(){
     return(<div className="max-w-7xl min-h-[80vh] mx-auto flex flex-col gap-5 ">

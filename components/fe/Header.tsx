@@ -23,7 +23,7 @@ export default function Header(){
         <div>
             <Icon/>
         </div>
-        <div className=" flex border-2 border-grey rounded py-1 px-2">
+        <div className="hidden md:flex border-2 border-grey rounded py-1 px-2">
             <input value={search} onChange={(item) => setSearch(item.target.value)} placeholder="Seach Products" className="outline-none border-none"/>
 
             <select className="outline-none border-none" value={category} onChange={(select) => setCategory(select.target.value)} >
