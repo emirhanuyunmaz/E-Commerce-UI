@@ -5,6 +5,7 @@ import {
   AccordionTrigger,
 } from "@/components/ui/accordion"
 import Link from "next/link";
+import { Dispatch, SetStateAction } from "react";
 
 const womanComponents : { title: string; href: string; description: string }[] =[
     {
@@ -269,7 +270,7 @@ const BestSellerComponents : { title: string; href: string; description: string 
 
 
 
-export function RightBarNavigation({setOpen}:{setOpen:any}) {
+export function RightBarNavigation({setOpen}:{setOpen:React.Dispatch<SetStateAction<boolean>>}) {
 
     function leftBarClose(){
         setOpen(false)
