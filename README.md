@@ -4,7 +4,7 @@ Bu proje, **Next.js** ile geliştirilmiş basit bir **E-Ticaret uygulamasıdır*
 Ürünler **dummy data** üzerinden listelenmekte olup, kullanıcılar ürünleri görüntüleyebilir ve sepetlerine ekleyebilir.  
 
 ## Canlı Demo
-[Projeyi Görüntüle]([https://senin-vercel-linkin.vercel.app](https://e-commerce-ui-ruby.vercel.app/))
+[Projeyi Görüntüle](https://e-commerce-ui-ruby.vercel.app/)
 
 ---
 
