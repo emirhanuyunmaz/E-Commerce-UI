@@ -12,7 +12,6 @@ Bu proje, **Next.js** ile geliştirilmiş basit bir **E-Ticaret uygulamasıdır*
 -  Next.js ile geliştirilmiş modern frontend
 -  Dummy data ile ürün listeleme
 -  Ürün detay sayfaları
--  Sepete ekleme / çıkarma
 -  Responsive tasarım (mobil uyumlu)
 
 ---
